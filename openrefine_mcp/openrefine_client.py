@@ -2,7 +2,7 @@
 
 import json
 import httpx
-from openrefine_mcp.models import ProjectInfo, ApplySummary
+from openrefine_mcp.models import ProjectInfo, ApplySummary, ProjectModels
 from openrefine_mcp.settings import OPENREFINE_URL
 
 
@@ -230,6 +230,31 @@ class OpenRefineClient:
 
         # Check if deletion was successful
         return result.get("code", "error") == "ok"
+
+    async def get_project_models(self, project_id: int) -> ProjectModels:
+        """Get project models information from OpenRefine.
+
+        Args:
+            project_id: ID of the project to get models for
+
+        Returns:
+            ProjectModels containing column, record, overlay models and scripting info
+
+        Raises:
+            httpx.HTTPStatusError: If the API request fails
+        """
+        # Build the get models URL
+        url = f"{self.base_url}/command/core/get-models"
+        params = {"project": str(project_id)}
+
+        # Make the get models request
+        response = await self._get(url, params=params)
+
+        # Parse the response
+        result = response.json()
+
+        # Return the project models
+        return ProjectModels(**result)
 
     async def close(self):
         """Close the HTTP client."""

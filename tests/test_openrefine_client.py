@@ -4,7 +4,7 @@ import json
 import pytest
 import pytest_asyncio
 from openrefine_mcp.openrefine_client import OpenRefineClient
-from openrefine_mcp.models import ProjectInfo, ApplySummary
+from openrefine_mcp.models import ProjectInfo, ApplySummary, ProjectModels
 
 
 class TestOpenRefineClient:
@@ -123,6 +123,22 @@ class TestOpenRefineClient:
         # OpenRefine returns success even for non-existent projects (idempotent)
         deleted = await client.delete_project(99999)
         assert deleted is True
+
+    @pytest.mark.vcr
+    @pytest.mark.asyncio
+    async def test_get_project_models_success(self, client, sample_project):
+        """Test successful project models retrieval."""
+        models = await client.get_project_models(sample_project.project_id)
+
+        assert isinstance(models, ProjectModels)
+        assert len(models.column_model.columns) == 11
+
+    @pytest.mark.vcr
+    @pytest.mark.asyncio
+    async def test_get_project_models_invalid_project(self, client):
+        """Test project models retrieval with invalid project ID."""
+        with pytest.raises(Exception):  # Should raise httpx.HTTPStatusError
+            await client.get_project_models(99999)
 
     @pytest.mark.asyncio
     async def test_client_context_manager(self):

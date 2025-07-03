@@ -1,0 +1,75 @@
+interactions:
+- request:
+    body: ''
+    headers:
+      accept:
+      - '*/*'
+      accept-encoding:
+      - gzip, deflate
+      connection:
+      - keep-alive
+      host:
+      - localhost:3333
+      user-agent:
+      - python-httpx/0.28.1
+    method: GET
+    uri: http://localhost:3333/command/core/get-models?project=99999
+  response:
+    body:
+      string: "<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html;charset=ISO-8859-1\"/>\n<title>Error
+        500 javax.servlet.ServletException: Failed to find project id #99999 - may
+        be corrupt</title>\n</head>\n<body><h2>HTTP ERROR 500 javax.servlet.ServletException:
+        Failed to find project id #99999 - may be corrupt</h2>\n<table>\n<tr><th>URI:</th><td>/command/core/get-models</td></tr>\n<tr><th>STATUS:</th><td>500</td></tr>\n<tr><th>MESSAGE:</th><td>javax.servlet.ServletException:
+        Failed to find project id #99999 - may be corrupt</td></tr>\n<tr><th>SERVLET:</th><td>refine</td></tr>\n<tr><th>CAUSED
+        BY:</th><td>javax.servlet.ServletException: Failed to find project id #99999
+        - may be corrupt</td></tr>\n</table>\n<h3>Caused by:</h3><pre>javax.servlet.ServletException:
+        Failed to find project id #99999 - may be corrupt\n\tat com.google.refine.commands.Command.getProject(Command.java:207)\n\tat
+        com.google.refine.commands.project.GetModelsCommand.internalRespond(GetModelsCommand.java:117)\n\tat
+        com.google.refine.commands.project.GetModelsCommand.doGet(GetModelsCommand.java:72)\n\tat
+        com.google.refine.RefineServlet.service(RefineServlet.java:180)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:590)\n\tat
+        org.eclipse.jetty.servlet.ServletHolder$NotAsync.service(ServletHolder.java:1410)\n\tat
+        org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764)\n\tat
+        org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:529)\n\tat
+        org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:131)\n\tat
+        org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:578)\n\tat
+        org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)\n\tat
+        org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:223)\n\tat
+        org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1570)\n\tat
+        org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:131)\n\tat
+        org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)\n\tat
+        org.eclipse.jetty.server.handler.gzip.GzipHandler.handle(GzipHandler.java:822)\n\tat
+        org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)\n\tat
+        org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:223)\n\tat
+        org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1384)\n\tat
+        org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176)\n\tat
+        org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484)\n\tat
+        org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1543)\n\tat
+        org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174)\n\tat
+        org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1306)\n\tat
+        org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129)\n\tat
+        org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)\n\tat
+        com.google.refine.ValidateHostHandler.handle(ValidateHostHandler.java:93)\n\tat
+        org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)\n\tat
+        org.eclipse.jetty.server.Server.handle(Server.java:563)\n\tat org.eclipse.jetty.server.HttpChannel$RequestDispatchable.dispatch(HttpChannel.java:1598)\n\tat
+        org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:753)\n\tat
+        org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:501)\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:282)\n\tat
+        org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:314)\n\tat
+        org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100)\n\tat org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53)\n\tat
+        java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n\tat
+        java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n\tat
+        java.base/java.lang.Thread.run(Thread.java:829)\n</pre>\n\n</body>\n</html>\n"
+    headers:
+      Cache-Control:
+      - must-revalidate,no-cache,no-store
+      Connection:
+      - close
+      Content-Length:
+      - '4007'
+      Content-Type:
+      - text/html;charset=iso-8859-1
+      Date:
+      - Thu, 03 Jul 2025 21:41:24 GMT
+    status:
+      code: 500
+      message: Server Error
+version: 1

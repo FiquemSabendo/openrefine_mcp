@@ -16,5 +16,9 @@ dependencies = [
 dev = [
     "anyio>=4.9.0",
     "pre-commit>=4.2.0",
+    "pyright[nodejs]>=1.1.402",
     "pytest>=8.4.1",
+    "pytest-asyncio>=1.0.0",
+    "pytest-vcr>=1.0.2",
+    "ruff>=0.12.2",
 ]

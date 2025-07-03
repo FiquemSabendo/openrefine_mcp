@@ -1,0 +1,1520 @@
+interactions:
+- request:
+    body: ''
+    headers:
+      accept:
+      - '*/*'
+      accept-encoding:
+      - gzip, deflate
+      connection:
+      - keep-alive
+      host:
+      - raw.githubusercontent.com
+      user-agent:
+      - python-httpx/0.28.1
+    method: GET
+    uri: https://raw.githubusercontent.com/vitorbaptista/birmingham_schools/refs/heads/master/data/birmingham_schools.csv
+  response:
+    body:
+      string: !!binary |
+        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
+    headers:
+      Accept-Ranges:
+      - bytes
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - max-age=300
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Length:
+      - '25796'
+      Content-Security-Policy:
+      - default-src 'none'; style-src 'unsafe-inline'; sandbox
+      Content-Type:
+      - text/plain; charset=utf-8
+      Cross-Origin-Resource-Policy:
+      - cross-origin
+      Date:
+      - Thu, 03 Jul 2025 21:20:25 GMT
+      ETag:
+      - W/"593a55102168909d085f4659c7b9b0a50e55e778e197119664b72d6cf885420b"
+      Expires:
+      - Thu, 03 Jul 2025 21:25:25 GMT
+      Source-Age:
+      - '250'
+      Strict-Transport-Security:
+      - max-age=31536000
+      Vary:
+      - Authorization,Accept-Encoding
+      Via:
+      - 1.1 varnish
+      X-Cache:
+      - HIT
+      X-Cache-Hits:
+      - '4'
+      X-Content-Type-Options:
+      - nosniff
+      X-Fastly-Request-ID:
+      - bbe1570b8647e1e199f11984913cecd6316010ef
+      X-Frame-Options:
+      - deny
+      X-GitHub-Request-Id:
+      - 2944:218D:54140:96465:6866F19E
+      X-Served-By:
+      - cache-for8428-FOR
+      X-Timer:
+      - S1751577625.419935,VS0,VE0
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: ''
+    headers:
+      accept:
+      - '*/*'
+      accept-encoding:
+      - gzip, deflate
+      connection:
+      - keep-alive
+      host:
+      - localhost:3333
+      user-agent:
+      - python-httpx/0.28.1
+    method: GET
+    uri: http://localhost:3333/command/core/get-csrf-token
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAKtWKsnPTs1TslIqCPT1yDYs9ywxy0guDk82DisqM/ByNwnI8kkqLq7wcFOqBQAq
+        WSPULAAAAA==
+    headers:
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Thu, 03 Jul 2025 21:20:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: "--156982d11e2df1865d48b4866bea104a\r\nContent-Disposition: form-data; name=\"project-name\"\r\n\r\napply_operations_success\r\n--156982d11e2df1865d48b4866bea104a\r\nContent-Disposition:
+      form-data; name=\"project-file\"; filename=\"dataset.csv\"\r\nContent-Type:
+      text/csv\r\n\r\nschool_name,street,postcode,easting,northing,web_site,school_group,maintain_status,lea_no,dcfs_no,geom\r\nAcocks
+      Green Primary School,Westley Road,B27 7UQ,411976,283216,http://acocks.schooljotter2.com/,Primary,Academy
+      Converter,330,2020,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82522312891254,52.4467952243302]}\"\r\nAdderley
+      Nursery School,Adderley Road,B8 1EH,409476,287857,http://www.addleyn.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1027,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86187538460657,52.4885571394878]}\"\r\nAdderley
+      Primary School,Arden Road,B8 1DZ,409534,287331,http://www.adderleyprimary.co.uk/,Primary,Community
+      School,330,2010,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86105072305983,52.483827465766]}\"\r\nAl-Furqan
+      Primary School,Reddings Lane,B11 3EY,410459,283448,http://www.al-furqan-pri.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,5949,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84755023388747,52.4489027767099]}\"\r\nAl-Hijrah
+      School,\"Cherrywood Centre, Burbidge Road\",B9 4US,410058,287022,http://www.alhijrahschool.co.uk/,All
+      Through,Voluntary Aided School,330,4334,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85332920347704,52.4810402556962]}\"\r\nAlbert
+      Bradbeer Primary Academy,Turves Green,B31 4RD,401976,277384,http://www.abprimary.bham.sch.uk/,Primary,Academy
+      Converter,330,3433,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97240036986396,52.3944907714185]}\"\r\nAllens
+      Croft Nursery School,Allens Croft Road,B14 6RP,406019,280393,http://www.allenscn.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1017,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91291831571312,52.4215131903071]}\"\r\nAllens
+      Croft Primary School,Allens Croft Road,B14 6RP,405995,280354,http://www.allcroft.bham.sch.uk/,Primary,Community
+      School,330,2153,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91327193035766,52.4211628480957]}\"\r\nAlston
+      Primary School,Alston Road,B9 5UN,411572,287073,http://www.alston.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2144,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83104939903958,52.4814780335717]}\"\r\nAnderton
+      Park Primary School,Dennis Road,B12 8BL,408580,283706,http://www.andertonparkschool.org/,Primary,Community
+      School,330,2062,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87517600798768,52.4512634569079]}\"\r\nAnglesey
+      Primary School,Anglesey Street,B19 1RA,406167,289083,http://www.angleseysch-bham.co.uk/,Primary,Community
+      School,330,2479,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91058449557963,52.499634484346]}\"\r\nArchbishop
+      Ilsley Catholic School,Victoria Road,B27 7XY,412207,283004,http://www.ilsley.bham.sch.uk/,Secondary,Voluntary
+      Aided School,330,4804,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82184679914732,52.4448753309294]}\"\r\nArden
+      Primary School,Baker Street,B11 4SF,409440,284146,http://www.arden.bham.sch.uk/,Primary,Community
+      School,330,2300,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86250928515163,52.4551960965477]}\"\r\nArk
+      Boulton Academy,Golden Hillock Road,B11 2QG,409553,284430,http://arkboulton.org/,Secondary,Academy
+      Sponsor Led,330,4013,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86083839430338,52.4577472953215]}\"\r\nArk
+      Chamberlain Primary Academy,Oldknow Road,B10 0HU,410468,285170,http://www.oldknowacademy.co.uk/,Juniors,Academy
+      Converter,330,2182,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84736435228721,52.4643832924865]}\"\r\nArk
+      Kings Academy,Shannon Road,B38 9DE,404755,277790,http://www.arkkingsacademy.org/,Secondary,Academy
+      Sponsor Led,330,4001,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93155568062476,52.3981153129918]}\"\r\nArk
+      Rose Primary Academy,Tees Grove,B38 9DH,404579,277950,http://www.arkroseprimary.org/,Primary,Academy
+      Sponsor Led,330,2041,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93414016150021,52.3995641223995]}\"\r\nArk
+      St Alban's Academy,Conybere Street,B12 0YH,407619,285418,http://arkstalbans.org/,Secondary,Academy
+      Sponsor Led,330,6908,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88928074373092,52.466664195248]}\"\r\nArk
+      Tindal Primary Academy,Tindal Street,B12 9QS,407660,284128,http://www.arktindalprimary.org/,Primary,Academy
+      Sponsor Led,330,2056,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88870380252685,52.4550706960803]}\"\r\nAston
+      Manor Academy,Phillips Street,B6 4PZ,407555,288676,http://www.astonmanor.bham.sch.uk/,Secondary,Academy
+      Converter,330,4220,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8901474985039,52.4959583983949]}\"\r\nAston
+      Tower Community Primary School,Upper Sutton Street,B6 5BE,407750,289172,http://www.astontowerprimary.co.uk/,Primary,Community
+      School,330,2443,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88727855487725,52.5004057997292]}\"\r\nAston
+      University Engineering Academy,1 Lister Street,B7 4AG,407819,287923,http://www.auea.co.uk/,Secondary,Academy
+      Sponsor Led,330,4003,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8862869529843,52.4891787352421]}\"\r\nAudley
+      Primary School,Audley Road,B33 9HY,413942,287842,http://www.audley.bham.sch.uk/,Primary,Community
+      School,330,3412,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79612043457231,52.488327479052]}\"\r\nBalaam
+      Wood School,New Street,B45 0EU,398931,278428,http://www.frankley.bham.sch.uk/,Secondary,Community
+      School,330,4333,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.01715224695706,52.4038692948836]}\"\r\nBanners
+      Gate Primary School,Coppice View Road,B73 6UE,408410,295660,http://www.bannersgate.bham.sch.uk/,Primary,Community
+      School,330,2026,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87739424668998,52.5587313039615]}\"\r\nBarford
+      Primary School,Barford Road,B16 0EF,404509,287413,http://www.barfordprimary.co.uk/site,Primary,Community
+      School,330,2014,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93503113704246,52.4846311260023]}\"\r\nBartley
+      Green School,Adams Hill,B32 3QJ,400161,282166,http://www.bartleygreen.org.uk/,Secondary,Academy
+      Converter,330,4108,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.99907236280851,52.4374843697657]}\"\r\nBaskerville
+      School,Fellows Lane,B17 9TS,402363,284431,http://www.baskvill.bham.sch.uk/,Special,Community
+      School,330,7016,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96665121930852,52.4578331517683]}\"\r\nBeaufort
+      School,Stechford Road,B34 6BJ,413176,288309,http://www.beaufort.bham.sch.uk/,Special,Community
+      School,330,7052,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.80737286242173,52.492548262063]}\"\r\nBellfield
+      Infant School (NC),Vineyard Road,B31 1PT,401956,279850,http://www.bellfield-inf.bham.sch.uk/,Infants,Community
+      School,330,2239,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.9726807941449,52.4166514002816]}\"\r\nBellfield
+      Junior SU School,Vineyard Road,B31 1PT,401928,279846,http://www.bellfield-jun.bham.sch.uk/,Juniors,Community
+      School,330,2241,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97309250234465,52.4166155441395]}\"\r\nBells
+      Farm Junior and Infant School,Bells Farm Close,B14 5QP,406332,278789,http://bellsfarm.org/,Primary,Community
+      School,330,2456,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90834558717316,52.4070896821987]}\"\r\nBenson
+      Community School,Benson Road,B18 5TD,404786,288893,http://www.bensonschool.co.uk/,Primary,Community
+      School,330,2435,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93094486224634,52.4979310275103]}\"\r\nBillesley
+      Primary School,Trittiford Road,B13 0ES,409079,280777,http://www.billesley.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2072,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86791206532655,52.4249237846635]}\"\r\nBirches
+      Green Infant School,Birches Green Road,B24 9SR,411674,290972,http://www.birchgni.bham.sch.uk/,Infants,Community
+      School,330,2025,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82939744922351,52.5165274705593]}\"\r\nBirches
+      Green Junior School,Birches Green Road,B24 9SR,411719,291016,http://www.birchgnj.bham.sch.uk/,Juniors,Community
+      School,330,2024,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82873276136921,52.5169220451015]}\"\r\nBirchfield
+      Community School,Trinity Road,B6 6AJ,406946,290217,http://www.birchfld.bham.sch.uk/,Primary,Community
+      School,330,2297,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89909043128083,52.5098117150007]}\"\r\nBirmingham
+      Ormiston Academy,1 Grovesnor Street,B4 7QD,407742,287262,http://www.boa-academy.co.uk/,Secondary,Academy
+      Sponsor Led,330,4000,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88743134729853,52.4832360227224]}\"\r\nBishop
+      Challoner Catholic College,Institute Road,B14 7EG,407588,281677,http://www.bishopchalloner.org.uk/,Secondary,Voluntary
+      Aided School,330,5413,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8898327993637,52.4330282477432]}\"\r\nBishop
+      Vesey's Grammar School,Lichfield Road,B74 2NH,412162,296813,http://www.bvgs.co.uk/,Secondary,Academy
+      Converter,330,4660,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82200898596058,52.5690264340191]}\"\r\nBishop
+      Walsh Catholic School,Wylde Green Road,B76 1QT,412890,294398,http://bishopwalsh.net/welcome/,Secondary,Academy
+      Converter,330,4661,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81134651179241,52.5472994804394]}\"\r\nBlakesley
+      Hall Primary School,Yardley Green Road,B33 8TH,412618,286390,http://www.blakesley.bham.sch.uk/,Primary,Community
+      School,330,2254,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81567318734741,52.4753060317169]}\"\r\nBloomsbury
+      Children's Centre,Bloomsbury Street,B7 5BX,408737,288423,http://www.bloomsburynscc.com/,Nursery,LA
+      Nursery School,330,1025,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87275854473142,52.4936665920654]}\"\r\nBoldmere
+      Infant School and Nursery,Cofield Road,B73 5SD,410634,294077,http://www.boldmere-inf.bham.sch.uk/,Infants,Community
+      School,330,2402,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84463959807877,52.5444530441183]}\"\r\nBoldmere
+      Junior School,Cofield Road,B73 5SD,410690,294113,http://www.bldmerej.bham.sch.uk/,Juniors,Community
+      School,330,2401,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84379794862214,52.5447845585803]}\"\r\nBordesley
+      Green East Nursery School,358 Bordesley Green East,B33 8QB,412816,286694,http://www.bgens.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1001,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81273191684551,52.4780343997684]}\"\r\nBordesley
+      Green Girls' School & Sixth Form,Bordesley Green Road,B9 4TR,410002,287014,http://www.bordgrng.bham.sch.uk/,Secondary,Community
+      School,330,4115,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85416870330827,52.4809693920951]}\"\r\nBordesley
+      Green Primary School,Marchmont Road,B9 5XX,411032,286761,http://www.bordsgrn.bham.sch.uk/,Primary,Community
+      School,330,2030,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83899623725517,52.4786753197983]}\"\r\nBordesley
+      Village Primary School and Children's Centre,Emmeline Street,B9 4NG,408932,286510,http://bvcs-bham.co.uk/,Primary,Community
+      School,330,2002,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8699224464917,52.4764657107465]}\"\r\nBournville
+      Infant School,Linden Road,B30 1JY,404411,281232,http://www.bournvilleinfantschool.org.uk/,Infants,Voluntary
+      Aided School,330,3354,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93655255043733,52.4290708122148]}\"\r\nBournville
+      Junior School,Linden Road,B30 1JY,404390,281304,http://www.bournvillejunior.org.uk/,Juniors,Voluntary
+      Aided School,330,3353,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93686048254017,52.4297182533564]}\"\r\nBournville
+      School and Sixth Form Centre,Griffins Brook Lane,B30 1QJ,403276,280690,http://www.bournvilleschool.org/,Secondary,Academy
+      Sponsor Led,330,4017,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.95325023610658,52.4241970047178]}\"\r\nBraidwood
+      School for the Deaf,Bromford Road,B36 8AF,412317,289399,http://www.braidwood.bham.sch.uk/,Special,Foundation
+      School,330,7030,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81999422610976,52.5023663107611]}\"\r\nBrays
+      School,Brays Road,B26 1NS,414059,284609,http://www.brays.bham.sch.uk/,Special,Community
+      School,330,7038,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79451795539138,52.4592600623219]}\"\r\nBrearley
+      Nursery School,Brearley Street,B19 3XJ,406820,288242,,Nursery,LA Nursery School,330,1002,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90098233211277,52.4920573483586]}\"\r\nBroadmeadow
+      Infant School,Monyhull Hall Road,B30 3QJ,405920,278963,http://www.brdmedoi.bham.sch.uk/,Infants,Community
+      School,330,2238,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91441351495166,52.4086584877126]}\"\r\nBroadmeadow
+      Junior School,Monyhull Hall Road,B30 3QJ,405871,278942,http://www.brdmedoj.bham.sch.uk/,Juniors,Community
+      School,330,2236,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91513421428635,52.4084612803691]}\"\r\nBroadway
+      Academy,The Broadway,B20 3DP,407183,290576,http://www.broadway-school.co.uk/,Secondary,Academy
+      Converter,330,4227,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89558652802787,52.5130352293869]}\"\r\nBrookfields
+      Primary School,2 Hingeston Street,B18 6PU,405646,287976,http://www.brookfields.bham.sch.uk/,Primary,Community
+      School,330,2034,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91829218848868,52.4896881485625]}\"\r\nBrookvale
+      Primary School,Mallard Drive,B23 7YB,408836,291473,http://www.brookvaleschool.co.uk/,Primary,Academy
+      Converter,330,2295,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87122052246565,52.5210841636034]}\"\r\nBrownmead
+      Primary Academy,Pencroft Road,B34 6SS,414974,288997,http://learning.brownmead.academy/,Primary,Academy
+      Sponsor Led,330,2152,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.78087085597747,52.4986836522836]}\"\r\nCalshot
+      Primary School,Calshot Road,B42 2BY,405693,293840,http://www.calshot.bham.sch.uk/index.htm,Primary,Community
+      School,330,2465,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91748705074456,52.5424044018749]}\"\r\nCalthorpe
+      Teaching Academy,Darwin Street,B12 0TP,408047,285490,http://www.calthorpe.bham.sch.uk/,Special,Academy
+      Special Converter,330,7013,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88297645936734,52.4673095518924]}\"\r\nCanterbury
+      Cross Primary School,Canterbury Road,B20 3AA,406897,290486,http://www.canterburycross.org.uk/,Primary,Community
+      School,330,2039,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89981723082362,52.5122387322466]}\"\r\nCardinal
+      Wiseman Catholic Technology College,Old Oscott Hill,B44 9SR,407657,294636,http://www.cardinalwiseman.bham.sch.uk/,Secondary,Voluntary
+      Aided School,330,4801,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88850995281477,52.549527698836]}\"\r\nCastle
+      Vale Nursery School,Yatesbury Avenue,B35 6DU,413996,291279,http://www.castvaln.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1048,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79516720086209,52.5192242081664]}\"\r\nChad
+      Vale Primary School,Nursery Road,B15 3JU,403803,285141,http://www.chadvale.bham.sch.uk/,Primary,Community
+      School,330,2312,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94546600900276,52.4642171887876]}\"\r\nChandos
+      Primary School,Vaughton Street South,B12 0YN,407473,285512,http://www.chandos.bham.sch.uk/,Primary,Community
+      School,330,2305,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89143981444584,52.4675064236422]}\"\r\nCherry
+      Oak School,60 Frederick Road,B29 6PB,404010,282549,http://www.cherryoak.bham.sch.uk/,Special,Community
+      School,330,7051,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94244943007928,52.4409047178776]}\"\r\nCherry
+      Orchard Primary School,Cherry Orchard Road,B20 2LB,405451,291366,http://www.cherryorchard-bham.co.uk/,Primary,Community
+      School,330,2040,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.9210950519062,52.5201658712383]}\"\r\nChilcote
+      Primary School,Chilcote Close,B28 0PB,410729,279837,http://www.chilcote.bham.sch.uk/,Primary,Community
+      School,330,2251,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84367748246725,52.4164436369887]}\"\r\nChilwell
+      Croft Academy,Chilwell Croft,B19 2QH,407069,288625,http://www.chilwellcroft.com/,Primary,Academy
+      Sponsor Led,330,2047,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89732172196309,52.4954973888564]}\"\r\nChivenor
+      Primary School,Farnborough Road,B35 7JA,414252,290866,http://www.chivenor.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2140,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79142670183412,52.5155138220896]}\"\r\nChrist
+      Church CofE Controlled Primary School and Nursery,Claremont Road,B11 1LF,408635,285127,http://www.christch.bham.sch.uk/,Primary,Voluntary
+      Controlled School,330,3002,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8743451102179,52.4640284058606]}\"\r\nChrist
+      The King Catholic Primary School,Warren Farm Road,B44 0QN,408457,293942,http://www.christkng.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3319,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87674418953428,52.5432860777284]}\"\r\nCity
+      of Birmingham School,\"The Link Centre, Jenkins Street\",B10 0QH,409310,285927,http://www.cityofbirminghamschool.com/our-school/,Not
+      applicable,Pupil Referral Unit,330,1100,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86438794379398,52.4712094321482]}\"\r\nCity
+      Road Primary School,Cavendish Road,B16 0HL,403851,287395,http://www.cityroad.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2134,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94472573871768,52.4844765898879]}\"\r\nClifton
+      Primary School,Brunswick Road,B12 8NX,408415,284267,http://www.cliftonprimary.bham.sch.uk/,Primary,Community
+      School,330,3432,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87759870148295,52.4563048738453]}\"\r\nCockshut
+      Hill Technology College,Cockshut Hill,B26 2HX,414305,285729,http://www.cockshut.bham.sch.uk/,Secondary,Community
+      School,330,4233,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79084991860182,52.4693224339991]}\"\r\nCofton
+      Primary School,Wootton Road,B31 4ST,402262,276891,http://www.cofton.bham.sch.uk/,Primary,Foundation
+      School,330,2289,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96818597444766,52.3900486312893]}\"\r\nColebourne
+      Primary School,Stechford Road,B34 6BJ,413195,288374,http://www.hazwebs.co.uk/colebourne/,Primary,Community
+      School,330,2185,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.80708580332562,52.4931284704596]}\"\r\nColmers
+      Farm Infant School,Leybrook Road,B45 9PB,399911,277667,http://www.colfarmi.bham.sch.uk/,Infants,Community
+      School,330,2052,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00274701307104,52.397038064044]}\"\r\nColmers
+      Farm Junior School,Leybrook Road,B45 9PB,399846,277658,http://www.colfarmj.bham.sch.uk/,Juniors,Community
+      School,330,2051,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00368767302193,52.396948161124]}\"\r\nColmers
+      School and Sixth Form College,Bristol Road South,B45 9NY,399872,277588,http://www.colmers.org.uk/,Secondary,Foundation
+      School,330,5416,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00332010295775,52.3963188671065]}\"\r\nColmore
+      Infant and Nursery School,Colmore Road,B14 6AJ,406880,281059,http://www.colmoreinf.co.uk/,Infants,Community
+      School,330,2054,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90024421586369,52.4274905768291]}\"\r\nColmore
+      Junior School,Colmore Road,B14 6AJ,406897,281116,http://www.colmorej.co.uk/,Juniors,Community
+      School,330,2053,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89999304925457,52.4279938426867]}\"\r\nConway
+      Primary School,Conway Road,B11 1NS,409032,284661,http://www.conway.bham.sch.uk/,Primary,Community
+      School,330,2082,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8685142032059,52.459841676878]}\"\r\nCoppice
+      Primary School,Trinity Road,B75 6TJ,411979,298085,http://www.coppice.bham.sch.uk/,Primary,Foundation
+      School,330,2464,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82466343488934,52.580456507465]}\"\r\nCorpus
+      Christi Catholic Primary School,Lyttelton Road,B33 8BL,412828,286985,http://www.corpuschristi.bham.sch.uk/index.htm,Primary,Voluntary
+      Aided School,330,3320,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81255875744595,52.480650177652]}\"\r\nCotteridge
+      Junior and Infant School,Breedon Road,B30 2HT,405242,280146,http://www.cotridge.bham.sch.uk/,Primary,Community
+      School,330,2055,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92436220913167,52.4193004968733]}\"\r\nCottesbrooke
+      Infant and Nursery School,Yardley Road,B27 6LG,412509,283858,http://www.cottesbrooke-inf.bham.sch.uk/,Infants,Academy
+      Converter,330,2299,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81737194853844,52.4525549398753]}\"\r\nCottesbrooke
+      Junior School,Cedars Avenue,B27 6JL,412338,283921,http://www.cbrookej.bham.sch.uk/,Juniors,Community
+      School,330,2226,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81987124174394,52.4531251531861]}\"\r\nCourt
+      Farm Primary School,Tedbury Crescent,B23 5NS,410027,292888,http://www.courtfrm.bham.sch.uk/,Primary,Community
+      School,330,2191,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85361096985256,52.5337754956362]}\"\r\nCromwell
+      Junior and Infant School and Nursery Class,Cromwell Street,B7 5BA,408590,288601,http://www.cromwell.bham.sch.uk/,Primary,Community
+      School,330,2060,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87490444795386,52.4952690755259]}\"\r\nCUL
+      Academy Trust,69 Aston Road North,B6 4EA,407933,288796,http://www.culacademy.co.uk/,Alternative,Free
+      Schools,330,1109,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88458580578957,52.4970256721315]}\"\r\nDame
+      Elizabeth Cadbury Technology College,Woodbrooke Road,B30 1UL,403975,281106,http://www.dectc.bham.sch.uk/,Secondary,Foundation
+      School,330,4129,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94298097232451,52.4279323918355]}\"\r\nDeykin
+      Avenue Junior and Infant School,Deykin Avenue,B6 7BU,408537,290701,http://www.deykinav.bham.sch.uk/,Primary,Community
+      School,330,2284,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87563194977572,52.5141486717318]}\"\r\nDorrington
+      Academy,Dorrington Road,B42 1QR,405327,292443,http://www.dorringtonprimary.co.uk/,Primary,Academy
+      Converter,330,2065,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92290558716021,52.5298491863178]}\"\r\nEast
+      Birmingham Network Academy,1580 Coventry Road,B26 1AL,412857,284916,http://www.ebnacademy.co.uk/,Alternative,Free
+      Schools,330,1105,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81220074800194,52.4620529523753]}\"\r\nEBN
+      Academy Phase 2,290 Reservoir Road,B23 6DE,410431,291602,,Alternative,Free Schools,330,1110,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84769507535802,52.5222160185063]}\"\r\nEden
+      Boys' School,Whitehead Road,B6 6EL,407448,289681,http://www.edenboysbirmingham.com/,Secondary,Free
+      Schools,330,4021,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89171605276778,52.5049947397576]}\"\r\nEdith
+      Cadbury Nursery School,Somerford Road,B29 5LB,402113,282052,http://www.edithcadbury.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1802,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97035925883999,52.4364469103916]}\"\r\nElms
+      Farm Community Primary School,Dorncliffe Avenue,B33 0PJ,415503,285115,http://www.elmsfarm.bham.sch.uk/,Primary,Community
+      School,330,2454,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.7732431466108,52.4637791369002]}\"\r\nEnglish
+      Martyrs' Catholic Primary School,Evelyn Road,B11 3JW,409362,283681,http://www.englishmartyrs.co.uk/,Primary,Voluntary
+      Aided School,330,3321,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86368462288427,52.4510260268956]}\"\r\nErdington
+      Hall Primary School,Ryland Road,B24 8JJ,410870,290445,http://www.erdhall.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2036,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84126247186121,52.5117972818741]}\"\r\nFairfax,Fairfax
+      Road,B75 7JT,413812,295974,http://www.fairfax.bham.sch.uk/,Secondary,Academy
+      Converter,330,5410,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79769983032479,52.5614449907785]}\"\r\nFairway
+      Primary School,Muirfield Gardens,B38 8XQ,403747,278460,http://www.fairway.bham.sch.uk/,Primary,Academy
+      Converter,330,2310,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94636281415286,52.4041462542175]}\"\r\nFeatherstone
+      Nursery School,29 Highcroft Road,B23 6AU,410206,291634,http://www.feathern.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1026,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85102488507588,52.522507931294]}\"\r\nFeatherstone
+      Primary School,Glenville Drive,B23 6PR,410230,291979,http://www.featherstoneprimaryschool.co.uk/,Primary,Community
+      School,330,2294,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85064597759797,52.5255999929428]}\"\r\nFirs
+      Primary School,Dreghorn Road,B36 8LL,413469,289611,http://www.firs.bham.sch.uk/,Primary,Community
+      School,330,2475,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.80300352053988,52.5042431750002]}\"\r\nForestdale
+      Primary School,Wareham Road,B45 0JS,399760,278836,http://www.forestdale.bham.sch.uk/,Primary,Community
+      School,330,2486,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00495337675821,52.4075431189757]}\"\r\nFour
+      Dwellings Academy,Dwellings Lane,B32 1RJ,399851,284122,http://www.fourdwellingsacademy.org/,Secondary,Academy
+      Sponsor Led,330,4005,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00363398055199,52.4550687625949]}\"\r\nFour
+      Dwellings Primary Academy,Quinton Road West,B32 1PJ,400046,284098,http://www.fdwellp.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2109,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00075560381041,52.4548458458508]}\"\r\nFour
+      Oaks Primary School,Edge Hill Road,B74 4PA,410110,299761,http://www.fouroaksprimary.bham.sch.uk/,Primary,Foundation
+      School,330,3435,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85219494844401,52.5955609002064]}\"\r\nFox
+      Hollies School and Performing Arts College,Highbury Community Campus,B13 8QB,407364,282546,http://www.foxhollies.bham.sch.uk/,Special,Community
+      School,330,7050,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.893093987893,52.4408435757765]}\"\r\nGarretts
+      Green Nursery School,117 Garretts Green Lane,B26 2JL,414259,285474,http://www.garrettsgreen.org.uk/,Nursery,LA
+      Nursery School,330,1006,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79153786054998,52.467031225861]}\"\r\nGeorge
+      Dixon Academy,Portland Road,B16 9GD,403049,286525,http://www.georgedixonacademy.com/,Secondary,Academy
+      Converter,330,5412,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.95653720318339,52.4766549126318]}\"\r\nGeorge
+      Dixon Primary School,City Road,B17 8LE,402999,286499,http://www.georgedixonprimary.bham.sch.uk/,Primary,Community
+      School,330,2079,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.95727353863301,52.4764304046029]}\"\r\nGilbertstone
+      Primary School,Clay Lane,B26 1EH,413072,284089,http://www.gilbertstoneprimary.com/,Primary,Community
+      School,330,2081,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.80906387081473,52.454618569751]}\"\r\nGlenmead
+      Primary School,Glenmead Road,B44 8UQ,406879,293712,https://glenmead-bham.frogprimary.com/,Primary,Community
+      School,330,2296,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90001123358959,52.5412386283059]}\"\r\nGoodway
+      Nursery School,5 Goodway Road,B44 8RL,407743,293559,http://www.goodwayn.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1015,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88728104522452,52.5398534287107]}\"\r\nGossey
+      Lane Junior Infant and Nursery School,Gossey Lane,B33 0DS,415123,286786,http://www.gosseylane.bham.sch.uk/,Primary,Community
+      School,330,2448,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.7787756635514,52.4788118803717]}\"\r\nGracelands
+      Nursery School,Grace Road,B11 1ED,409309,285066,http://www.grclands.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1022,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86442282706079,52.4634724808912]}\"\r\nGreat
+      Barr Primary School,Aldridge Road,B44 8NT,406701,294151,http://www.grtbarr.bham.sch.uk/,Primary,Academy
+      Converter,330,2450,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90261797822088,52.5451890011107]}\"\r\nGreat
+      Barr School,Aldridge Road,B44 8NU,406673,294247,http://www.greatbarrschool.org.uk/,Secondary,Foundation
+      School,330,5403,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90304370210315,52.5460434112225]}\"\r\nGreen
+      Meadow Primary School,Green Meadow Road,B29 4EE,401974,281204,http://www.greenmeadowprimaryschool.com/,Primary,Academy
+      Converter,330,2451,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97239979211115,52.4288283719989]}\"\r\nGreenholm
+      Primary School,Greenholm Road,B44 8HS,407393,293192,http://web.grnholm.bham.sch.uk/site/,Primary,Academy
+      Converter,330,2085,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89243486937517,52.5365499846218]}\"\r\nGreenwood
+      Academy,Farnborough Road,B35 7NL,414873,291387,https://sites.google.com/a/aetinet.org/greenwood-academy/home,Secondary,Academy
+      Sponsor Led,330,4006,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.78225263556809,52.5201720911845]}\"\r\nGreet
+      Primary School,Percy Road,B11 3ND,409762,283924,http://www.greet.bham.sch.uk/,Primary,Community
+      School,330,2086,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85779183400982,52.4532036810652]}\"\r\nGrendon
+      Junior and Infant School (NC),Grendon Road,B14 4RB,408098,279321,http://www.grendon.bham.sch.uk/,Primary,Community
+      School,330,2087,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88238775712479,52.4118405799322]}\"\r\nGrestone
+      Academy,Grestone Avenue,B20 1ND,404309,291601,http://www.grestoneschool.co.uk/,Primary,Academy
+      Sponsor Led,330,2138,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93793701178641,52.5222885055417]}\"\r\nGrove
+      School,Dawson Road,B21 9HB,404614,289752,http://web.grove.bham.sch.uk/,Primary,Community
+      School,330,2466,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93346682389501,52.5056637452513]}\"\r\nGuardian
+      Angels Catholic Primary School,Hurst Lane,B34 7HN,416103,288806,http://www.grdangel.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3316,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.76423492724733,52.4969435818968]}\"\r\nGunter
+      Primary School,Gunter Road,B24 0RU,413095,291483,http://www.gunterprimary.org/,Primary,Community
+      School,330,2091,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.80845202193645,52.521080372919]}\"\r\nHall
+      Green Infant School,Petersfield Road,B28 0AR,410606,281471,http://www.hallgreeninfant.co.uk/,Infants,Community
+      School,330,2093,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84544934632889,52.4311357245545]}\"\r\nHall
+      Green Junior School,Stratford Road,B28 9AJ,410680,281459,http://www.hallgrnj.bham.sch.uk/,Juniors,Community
+      School,330,2092,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84436139205916,52.43101746435]}\"\r\nHall
+      Green School,Southam Road,B28 0AA,410367,281671,http://www.hallgreen.bham.sch.uk/,Secondary,Academy
+      Converter,330,5409,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84894371844931,52.4329292755182]}\"\r\nHallmoor
+      School,Scholars Gate,B33 0DL,415021,287042,http://www.hallmoor.bham.sch.uk/,Special,Community
+      School,330,7027,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.78026460381136,52.4811071572102]}\"\r\nHamilton
+      School,Hamilton Road,B21 8AH,403902,289894,http://www.hamilton.bham.sch.uk,Special,Community
+      School,330,7006,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94394020047486,52.5069457044705]}\"\r\nHamstead
+      Hall Academy,Craythorne Avenue,B20 1HL,404024,292495,http://www.hamsteadhall.com,Secondary,Academy
+      Converter,330,4240,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94211219032715,52.5303186177013]}\"\r\nHandsworth
+      Grammar School,Grove Lane,B21 9ET,404621,289651,http://www.handsworth.bham.sch.uk/,Secondary,Voluntary
+      Aided School,330,5402,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93336506170584,52.5047556964863]}\"\r\nHandsworth
+      Wood Girls' Academy,Church Lane,B20 2HL,404913,290687,http://www.hwga.org.uk/,Secondary,Academy
+      Converter,330,4207,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92903361529165,52.5140577847799]}\"\r\nHarborne
+      Academy,Harborne Road,B15 3JL,404294,284880,http://www.harborneacademy.co.uk/,Secondary,Academy
+      Sponsor Led,330,6910,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93824232247299,52.4618583269251]}\"\r\nHarborne
+      Primary School,Station Road,B17 9LU,403294,284570,http://www.harborne.bham.sch.uk,Primary,Community
+      School,330,2477,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.95296334314282,52.459078148531]}\"\r\nHarper
+      Bell Seventh Day Adventist School,29 Ravenhurst Street,B12 0EJ,408232,285754,http://www.hbsda.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3436,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88026153825449,52.4696712493511]}\"\r\nHawkesley
+      Church Primary Academy,376 Shannon Road,B38 9TR,404326,277289,http://www.hawkesley.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2121,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93786687726898,52.3936236756709]}\"\r\nHawthorn
+      Primary School,Hawthorn Road,B44 8QR,408431,293109,http://hawthornprimaryschool.co.uk/,Primary,Community
+      School,330,2099,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87714836739652,52.5357979207012]}\"\r\nHeartlands
+      Academy,Gt Francis Street,B7 4QR,408594,287858,http://www.heartlands-academy.org.uk/,Secondary,Academy
+      Sponsor Led,330,6905,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87486448454481,52.4885805420097]}\"\r\nHeath
+      Mount Primary School,Mary Street,B12 9ST,407578,284703,http://www.heathmount.bham.sch.uk/,Primary,Community
+      School,330,2313,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88991230237942,52.4602321321715]}\"\r\nHeathfield
+      Primary School,Heathfield Road,B19 1HJ,406276,289781,http://www.heathfld.bham.sch.uk/,Primary,Academy
+      Converter,330,2309,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90896596365585,52.5058992368276]}\"\r\nHeathlands
+      Primary Academy,Heath Way,B34 6NB,413964,289145,http://www.heathlnd.bham.sch.uk/,Primary,Academy
+      Converter,330,2455,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79574229538067,52.5000407062916]}\"\r\nHighfield
+      Junior and Infant School,Highfield Road,B8 3QF,410343,288366,http://web.hifield.bham.sch.uk/page/default.asp?title=Home&pid=1,Primary,Community
+      School,330,2101,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84909148164693,52.4931263810916]}\"\r\nHighfield
+      Nursery School,Highfield Road,B8 3QF,410308,288387,http://www.hifieldn.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1010,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84961459965266,52.4933149714546]}\"\r\nHighters
+      Heath Community School,Highters Heath Lane,B14 4LY,408808,279373,http://www.hightersheath.co.uk/,Primary,Community
+      School,330,2438,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87193377278859,52.4123061754232]}\"\r\nHighters
+      Heath Nursery School,11 School Road,B14 4BH,408850,279463,http://www.hiheathn.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1021,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8713139805948,52.413105660472]}\"\r\nHill
+      West Primary School,Clarence Road,B74 4LD,410721,299761,http://www.hillwest.bham.sch.uk/,Primary,Academy
+      Converter,330,3429,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.843174902387,52.5955493253094]}\"\r\nHillcrest
+      School A Specialist Maths and Computing College and Sixth Form Centre,Stonehouse
+      Lane,B32 3AE,401291,283086,http://www.hillcrest.bham.sch.uk/,Secondary,Academy
+      Converter,330,4012,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.98244689416877,52.4457538997229]}\"\r\nHillstone
+      Primary School,Hillstone Road,B34 7PY,415976,288400,http://www.hillstone.org.uk/,Primary,Academy
+      Converter,330,2434,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.76612490867259,52.4932973721982]}\"\r\nHodge
+      Hill College,Bromford Road,B36 8HB,412281,289312,http://www.hodgehill.bham.sch.uk/,Secondary,Community
+      School,330,4201,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82052796298874,52.50158216384]}\"\r\nHodge
+      Hill Girls' School,Bromford Road,B36 8EY,412465,289425,http://www.hodgehgs.bham.sch.uk/,Secondary,Community
+      School,330,4015,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81779857375273,52.5025938414656]}\"\r\nHodge
+      Hill Primary School,Twycross Grove,B36 8LD,412584,289348,http://www.hodgehillprimary.bham.sch.uk/,Primary,Community
+      School,330,3430,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81604838803783,52.5018989325471]}\"\r\nHolland
+      House Infant School and Nursery,Holland Road,B72 1RE,412193,295605,http://www.hollandh.bham.sch.uk/,Infants,Community
+      School,330,2429,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82159561854418,52.5581571511392]}\"\r\nHolly
+      Hill Methodist CofE Infant School,New Street,B45 0EU,398943,278510,http://www.hollyhill.bham.sch.uk/,Infants,Voluntary
+      Aided School,330,3411,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.016961540168,52.4046154648001]}\"\r\nHollyfield
+      Primary School,Hollyfield Road,B75 7SG,413574,296024,http://www.hollyfield.bham.sch.uk/,Primary,Foundation
+      School,330,2474,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.80119395435263,52.5618914559009]}\"\r\nHollywood
+      Primary School,Pickenham Road,B14 4TG,408310,278343,http://www.hollywoodprimaryschool.co.uk/,Primary,Community
+      School,330,2288,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87928038589667,52.4030451654292]}\"\r\nHolte
+      School,Wheeler Street,B19 2EP,406869,289180,http://www.holte.bham.sch.uk/,Secondary,Community
+      School,330,4223,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90024162869329,52.5004893010863]}\"\r\nHoly
+      Cross Catholic Primary School,Laburnum Drive,B76 2SP,414129,295387,http://www.holycros.bham.sch.uk/,Primary,Academy
+      Converter,330,3402,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79304850895033,52.5561599044269]}\"\r\nHoly
+      Family Catholic Primary School,Coventry Road,B10 0HT,410560,285301,http://www.holyfam.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3317,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84600614218938,52.4655592468413]}\"\r\nHoly
+      Souls Catholic Primary School,Mallard Close,B27 6BN,412405,283281,http://www.holysoul.bham.sch.uk/page/default.asp?title=Home&pid=1,Primary,Voluntary
+      Aided School,330,3327,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8189089369091,52.4473611191363]}\"\r\nHoly
+      Trinity Catholic Media Arts College,Oakley Road,B10 0AX,409331,285504,http://www.holytrc.bham.sch.uk/,Secondary,Voluntary
+      Aided School,330,4664,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86407579736368,52.467406323306]}\"\r\nHoly
+      Trinity CE Primary Academy (Handsworth),Havelock Road,B20 3LP,406420,290619,http://www.htcepa.bham.sch.uk/,Primary,Academy
+      Converter,330,3303,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90684327688107,52.5134311399177]}\"\r\nHolyhead
+      School,Milestone Lane,B21 0HN,403719,289706,http://www.holyheadschool.org.uk/,Secondary,Academy
+      Converter,330,4241,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94663838990152,52.5052478869026]}\"\r\nHunters
+      Hill Technology College,Spirehouse Lane,B60 1QD,398834,272567,http://www.huntershill.org.uk/,Special,Community
+      School,330,7026,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.01854094752349,52.3511869912492]}\"\r\nJakeman
+      Nursery School,Jakeman Road,B12 9NX,407244,284369,http://www.jakeman.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1023,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89483503876611,52.4572428876491]}\"\r\nJames
+      Brindley School,Bell Barn Road,B15 2AF,406437,285719,http://www.jamesbrindley.bham.sch.uk/,Special,Academy
+      Special Converter,330,7063,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90668571787619,52.4693803219652]}\"\r\nJames
+      Watt Primary School,Boulton Road,B21 0RE,404220,289120,http://www.jameswattp.bham.sch.uk/,Primary,Community
+      School,330,2015,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93927925818629,52.499985231165]}\"\r\nJervoise
+      School,Jervoise Road,B29 5QU,402212,282496,http://www.jervoise.bham.sch.uk/,Primary,Academy
+      Converter,330,2111,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.968900245708,52.4404470323797]}\"\r\nJohn
+      Willmott School,Reddicap Heath Road,B75 7DY,413956,295869,http://www.jws.bham.sch.uk/,Secondary,Community
+      School,330,4301,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79558003009355,52.560497421829]}\"\r\nKing
+      David Junior and Infant School,Alcester Road,B13 8EY,407540,282886,http://www.kingdavid.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3352,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89051198504865,52.4438978513091]}\"\r\nKing
+      Edward VI Aston School,Frederick Road,B6 6DJ,407860,289535,http://web.keaston.bham.sch.uk/,Secondary,Academy
+      Converter,330,5408,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88564975280224,52.5036675501231]}\"\r\nKing
+      Edward VI Camp Hill School for Boys,Vicarage Road,B14 7QJ,406676,281426,http://www.camphillboys.bham.sch.uk/,Secondary,Academy
+      Converter,330,5407,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90323716543681,52.43078345612]}\"\r\nKing
+      Edward VI Camp Hill School for Girls,Vicarage Road,B14 7QJ,406740,281461,http://www.kechg.org.uk/,Secondary,Academy
+      Converter,330,5406,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90229520757097,52.4310973354357]}\"\r\nKing
+      Edward VI Five Ways School,Scotland Lane,B32 4BT,400143,281569,http://fwgs.kefw.org/,Secondary,Academy
+      Converter,330,5405,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.99932249402673,52.43210834603]}\"\r\nKing
+      Edward VI Handsworth School,Rose Hill Road,B21 9AR,405302,289410,http://www.kingedwardvi.bham.sch.uk/,Secondary,Academy
+      Converter,330,5404,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92333606980782,52.502583071402]}\"\r\nKing
+      Edward VI Sheldon Heath Academy,Sheldon Heath Road,B26 2RZ,415137,285653,http://www.keshacademy.com/,Secondary,Academy
+      Sponsor Led,330,6906,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.7786206203843,52.4686169908439]}\"\r\nKing
+      Solomon International Business School,Faraday Wharf,B7 4BB,407754,287865,http://kingsolomonibs.com/,All
+      Through,Free Schools,330,4020,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.887234903871,52.4886648431061]}\"\r\nKing's
+      Norton Boys' School,Northfield Road,B30 1DY,404070,279907,http://www.kingsnortonboys.bham.sch.uk/,Secondary,Foundation
+      School,330,5415,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94158332532385,52.4171615746805]}\"\r\nKings
+      Heath Boys,Hollybank Road,B13 0RJ,408232,280606,http://www.kingsheathboys.co.uk/,Secondary,Community
+      School,330,4063,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88037192898549,52.4233997038327]}\"\r\nKings
+      Heath Primary School,Valentine Road,B14 7AJ,407592,282133,http://www.kingsheathprimary.com/,Primary,Community
+      School,330,2005,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88976376064569,52.4371366190905]}\"\r\nKings
+      Norton Girls' School,Selly Oak Road,B30 1HW,404500,280310,http://www.kngs.co.uk/,Secondary,Academy
+      Converter,330,5414,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93526520234519,52.4207799862808]}\"\r\nKings
+      Norton Junior and Infant School,Pershore Road South,B30 3EU,405024,278906,http://www.kngnrtn.bham.sch.uk/,Primary,Community
+      School,330,2118,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92758292648326,52.4081458866617]}\"\r\nKings
+      Norton Nursery School,Westhill Road,B38 8SY,404517,279360,http://www.kingsnortonnurseryschool.org.uk/,Nursery,LA
+      Nursery School,330,1016,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93501825554378,52.4122316770942]}\"\r\nKings
+      Rise Academy,Hornsey Road,B44 0JL,408535,294635,http://www.kingrise.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2073,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87556182979105,52.5495058456117]}\"\r\nKingsbury
+      School and Sports College,Kingsbury Road,B24 8RE,411076,290747,http://www.kingsbury.bham.sch.uk/,Secondary,Community
+      School,330,4330,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83823183965747,52.5145081732541]}\"\r\nKingsland
+      Primary School (NC),Kingsland Road,B44 9PU,407712,295533,http://www.kingsland.bham.sch.uk/,Primary,Community
+      School,330,2115,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88767827869456,52.5575908380646]}\"\r\nKingsthorne
+      Primary School,Cranbourne Road,B44 0BX,408070,294053,http://www.kingsthorneprimary.co.uk/,Primary,Community
+      School,330,2441,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88244791223413,52.5442897228163]}\"\r\nKitwell
+      Primary School and Nursery Class,Wychbury Road,B32 4DL,399424,281435,http://kitwellschool.com/,Primary,Community
+      School,330,2321,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00989739804487,52.4309122130295]}\"\r\nLadypool
+      Primary School,Stratford Road,B11 1QT,408643,284809,http://www.ladypool.bham.sch.uk/,Primary,Community
+      School,330,2189,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87423552009382,52.4611694822201]}\"\r\nLakey
+      Lane Junior and Infant School,Lakey Lane,B28 8RY,411593,281518,http://www.lakeyln.bham.sch.uk/,Primary,Community
+      School,330,2119,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83091651763247,52.4315383801671]}\"\r\nLangley
+      School,Trinity Road,B75 6TJ,411921,298045,http://www.langley.bham.sch.uk/,Special,Foundation
+      School,330,7060,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82551112398344,52.5800995256501]}\"\r\nLea
+      Forest Primary Academy,Hurstcroft Road,B33 9RD,414618,287267,http://leaforestacademy.org/,Primary,Academy
+      Sponsor Led,330,2096,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.78617548507173,52.4831496619188]}\"\r\nLeigh
+      Primary School,Leigh Road,B8 2YH,410468,288867,http://www.leighji.bham.sch.uk/,Primary,Academy
+      Converter,330,2453,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84724953012375,52.4976190545292]}\"\r\nLillian
+      de Lissa Nursery School,Bellevue,B5 7LX,406911,285280,http://www.ldelissa.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1024,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8997024184248,52.4654369742163]}\"\r\nLindsworth
+      School,Monyhull Hall Road,B30 3QA,406500,279150,http://www.lindsworth.co.uk,Special,Community
+      School,330,7062,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90588380329993,52.4103242426655]}\"\r\nLittle
+      Sutton Primary School,Worcester Lane,B75 5NL,412829,299487,http://www.littlesu.bham.sch.uk/,Primary,Foundation
+      School,330,2462,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81205089167428,52.5930408932536]}\"\r\nLongwill
+      A Primary School for Deaf Children,Bell Hill,B31 1LD,402055,280131,http://www.longwill.bham.sch.uk/,Special,Community
+      School,330,7012,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97120892587369,52.419177256103]}\"\r\nLordswood
+      Boys' School,Hagley Road,B17 8BJ,402471,286011,http://www.lordswoodboys.co.uk/,Secondary,Academy
+      Converter,330,4057,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96506532136963,52.4720458346659]}\"\r\nLordswood
+      Girls' School and Sixth Form Centre,Knightlow Road,B17 8QB,402476,285730,http://www.lordswoodgirls.co.uk/,Secondary,Academy
+      Converter,330,4060,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96499375169869,52.4695196353574]}\"\r\nLozells
+      Junior and Infant School and Nursery,Wheeler Street,B19 2EP,406865,289087,http://www.lozells.bham.sch.uk/,Primary,Community
+      School,330,2127,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90031709639173,52.4996622585944]}\"\r\nLyndon
+      Green Infant School,Wychwood Cresent,B26 1LZ,414043,284716,http://www.lyndongi.bham.sch.uk/,Infants,Community
+      School,330,2129,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79475336444093,52.4602268884406]}\"\r\nLyndon
+      Green Junior School,Wensley Road,B26 1LU,413978,284751,http://web.lyndongreen-jun.bham.sch.uk/,Juniors,Community
+      School,330,2128,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79570409105898,52.4605476748547]}\"\r\nManey
+      Hill Primary School,Maney Hill Road,B72 1JU,412566,294772,http://www.maneyhill.bham.sch.uk/,Primary,Community
+      School,330,2420,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81611036659118,52.5506602105104]}\"\r\nManor
+      Park Primary School,Church Lane,B6 5UQ,408422,289607,http://www.manorpark.bham.sch.uk/,Primary,Foundation
+      School,330,5204,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87736856687896,52.5043155374569]}\"\r\nMansfield
+      Green E-ACT Academy,Albert Road,B6 5NH,407045,289533,http://www.manfldgn.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2075,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8976489245197,52.5036677193585]}\"\r\nMapledene
+      Primary School,Mapledene Road,B26 3XE,415980,284633,http://www.mapledene.bham.sch.uk/,Primary,Community
+      School,330,2004,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.76624533601316,52.4594234370717]}\"\r\nMarlborough
+      Infant School,Marlborough Road,B10 9NY,410330,286219,http://www.malbrghi.bham.sch.uk/,Infants,Community
+      School,330,2132,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84936107815764,52.4738191202499]}\"\r\nMarlborough
+      Junior School,Green Lane,B10 9NY,410329,286255,http://www.mjs.bham.sch.uk/,Juniors,Community
+      School,330,2283,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84937490386829,52.4741431337777]}\"\r\nMarsh
+      Hill Nursery School,275 Marsh Hill,B23 7HG,408856,291861,http://www.marshiln.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1012,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87091555737265,52.5245630051241]}\"\r\nMarsh
+      Hill Primary School,Marsh Hill,B23 7HY,409061,291928,http://www.marshill.bham.sch.uk/,Primary,Community
+      School,330,2133,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86789228672439,52.5251709050695]}\"\r\nMaryvale
+      Catholic Primary School,Old Oscott Hill,B44 9AG,407414,294461,http://www.maryvaleprimary.org.uk/,Primary,Voluntary
+      Aided School,330,3322,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89209737850309,52.5479577891515]}\"\r\nMayfield
+      School,Heathfield Road,B19 1HJ,406208,289693,http://www.mayfield.bham.sch.uk/,Special,Community
+      School,330,7040,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90998403614262,52.5051178438778]}\"\r\nMere
+      Green Primary School,Mere Green Road,B75 5BL,411743,298969,http://www.meregrn.bham.sch.uk/,Primary,Academy
+      Converter,330,2463,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82811519384802,52.5884085211316]}\"\r\nMerritts
+      Brook Primary E-ACT Academy,Trescott Road,B31 5QD,400640,279210,http://merrittsbrooke-actacademy.org.uk/,Primary,Academy
+      Sponsor Led,330,2100,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.99202804922732,52.4109041316892]}\"\r\nMinworth
+      Junior and Infant School,Water Orton Lane,B76 9BU,415797,292243,http://www.minworth.bham.sch.uk/,Primary,Community
+      School,330,2406,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.76859485883992,52.5278505178653]}\"\r\nMontgomery
+      Primary Academy,White Road,B11 1EH,409226,285071,http://www.montgomeryprimaryacademy.org/,Primary,Academy
+      Sponsor Led,330,2070,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86564787598774,52.4635243836656]}\"\r\nMoor
+      Green Primary School,Moor Green Lane,B13 8QP,406346,282236,http://www.moorgreenprimary.co.uk/,Primary,Academy
+      Sponsor Led,330,2078,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.9080902803689,52.4380692210063]}\"\r\nMoor
+      Hall Primary School,Rowallan Road,B75 6RE,412637,298751,http://www.moorhall.bham.sch.uk/,Primary,Foundation
+      School,330,2416,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81491632806636,52.5864289104718]}\"\r\nMoseley
+      Church of England Primary School,Oxford Road,B13 9EH,407957,282793,http://www.moseleyce.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3003,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88437921960571,52.4430559296814]}\"\r\nMoseley
+      School,Wake Green Road,B13 9UU,409520,282607,http://www.moseley.bham.sch.uk/,Secondary,Foundation
+      School,330,4245,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86139001450341,52.4413591693637]}\"\r\nNansen
+      Primary School,Naseby Road,B8 3HG,410641,288179,http://www.nansen.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2038,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84470830202742,52.4914396333569]}\"\r\nNechells
+      Primary E-ACT Academy,Eliot Street,B7 5LB,409383,289576,http://www.nechellse-actacademy.org.uk/,Primary,Academy
+      Sponsor Led,330,2048,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86321175955212,52.5040213616751]}\"\r\nNelson
+      Junior and Infant School,King Edward's Road,B1 2PJ,405756,287019,http://www.nelson.bham.sch.uk/,Primary,Community
+      School,330,2142,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91668843316781,52.4810746993321]}\"\r\nNelson
+      Mandela School,Colville Road,B12 8EH,408622,284281,http://www.nelsonmandelaschool.co.uk/home,Primary,Community
+      School,330,2457,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87455805071446,52.4564231173917]}\"\r\nNew
+      Hall Primary and Children's Centre,Langley Hall Drive,B75 7NQ,414967,296439,http://www.newhall.bham.sch.uk/,Primary,Community
+      School,330,2469,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.78064134758265,52.5655860168699]}\"\r\nNew
+      Oscott Primary School,Markham Road,B73 6QR,409325,295271,http://www.newoscott.bham.sch.uk/,Primary,Community
+      School,330,3431,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86389377331869,52.5552195530636]}\"\r\nNewtown
+      Nursery School,Hockley Close,B19 2NS,406856,288824,http://www.newtownn.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1028,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90044037351195,52.497289069441]}\"\r\n\"Ninestiles
+      School, an Academy\",Hartfield Crescent,B27 7QG,411477,282392,http://www.ninestiles.org.uk/,Secondary,Academy
+      Converter,330,5411,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83259291410692,52.4393980490155]}\"\r\nNishkam
+      High School,Great King Street North,B19 2LF,406384,288647,http://www.nishkamschooltrust.org/,Secondary,Free
+      Schools,330,4004,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90741084169991,52.4957034976313]}\"\r\nNishkam
+      Primary School Birmingham,1-7 Soho Road,B21 9SN,405244,289228,http://www.nishkamschooltrust.org/overview-primary/,Primary,Free
+      Schools,330,2032,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92417866840689,52.5009474644105]}\"\r\nNonsuch
+      Primary School,Wood Leasow,B32 3SE,400580,282921,http://www.nonsuchprimaryschool.co.uk/,Primary,Community
+      School,330,2315,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.99289322493991,52.444262686987]}\"\r\nNorth
+      Birmingham Academy,395 College Road,B44 0HF,408600,292897,http://www.nbacademy.org.uk/,Secondary,Academy
+      Sponsor Led,330,6909,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87465049744939,52.5338849668827]}\"\r\nNorthfield
+      Manor Primary Academy,Swarthmore Road,B29 4JT,402679,281292,http://www.nthfdman.bham.sch.uk/,Primary,Academy
+      Converter,330,2263,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96203947300961,52.4296210987738]}\"\r\nOasis
+      Academy Blakenhale Infants,Blakenhale Road,B33 0XD,414880,286268,http://www.oasisacademyblakenhaleinfants.org/,Infants,Academy
+      Sponsor Led,330,2102,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.78237641597525,52.4741617242502]}\"\r\nOasis
+      Academy Blakenhale Junior,Homestead Road,B33 0XG,414851,286183,http://www.oasisacademyblakenhalejunior.org/,Juniors,Academy
+      Sponsor Led,330,2107,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.78280712329953,52.473389417396]}\"\r\nOasis
+      Academy Boulton,Boulton Road,B21 0RE,404271,289288,http://www.oasisacademyboulton.org/,Primary,Academy
+      Sponsor Led,330,2117,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93851127351381,52.5014861741767]}\"\r\nOasis
+      Academy Foundry,Foundry Road,B18 4LP,404067,288488,http://www.foundry.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2141,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94154062446029,52.4942957477481]}\"\r\nOasis
+      Academy Hobmoor,Wash Lane,B25 8FD,412351,285491,http://www.oasisacademyhobmoor.org/,Primary,Academy
+      Sponsor Led,330,2110,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81963704147548,52.4672355047763]}\"\r\nOasis
+      Academy Short Heath,Streetly Road,B23 5JP,409689,292925,http://www.oasisacademyshortheath.org/,Primary,Academy
+      Sponsor Led,330,2103,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85860738783969,52.5341141756549]}\"\r\nOasis
+      Academy Woodview,Woodview Drive,B15 2HU,406494,285470,http://www.oasisacademywoodview.org/,Primary,Academy
+      Sponsor Led,330,2105,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90583675103964,52.4671411587936]}\"\r\nOsborne
+      Nursery School,Station Road,B23 6UB,411129,292158,http://www.osbornenurseryschool.co.uk/,Nursery,LA
+      Nursery School,330,1049,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83738939567057,52.5272007271608]}\"\r\nOsborne
+      Primary School,Station Road,B23 6UB,411070,292167,http://www.osborne-pri.bham.sch.uk/,Primary,Community
+      School,330,2436,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83825877193044,52.5272828015989]}\"\r\nOscott
+      Manor School,Old Oscott Hill,B44 9SP,407390,294358,http://www.oscottmanor.bham.sch.uk/,Special,Community
+      School,330,7053,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89245355712944,52.547041139604]}\"\r\nOur
+      Lady and St Rose of Lima Catholic Primary School,Gregory Avenue,B29 5DY,402640,282002,http://www.olstrose.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3351,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96259544533779,52.4359968864679]}\"\r\nOur
+      Lady of Fatima Catholic Primary School,Winchfield Drive,B17 8TR,401731,285421,http://www.olfatima.bham.sch.uk/,Primary,Academy
+      Converter,330,3374,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97594738977514,52.4667444239543]}\"\r\nOur
+      Lady of Lourdes Catholic Primary School (NC),Trittiford Road,B13 0EU,409595,280480,http://www.ourladyoflourdesprimary.com/,Primary,Voluntary
+      Aided School,330,3328,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86033236163312,52.4222361087643]}\"\r\nOur
+      Lady's Catholic Primary School,East Meadway,B33 0AU,415782,286927,http://www.ourladys.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3357,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.76906615105727,52.480060937419]}\"\r\nPaganel
+      Primary School,Swinford Road,B29 5TG,402230,282911,http://paganelschool.com/,Primary,Community
+      School,330,2021,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96861816481543,52.4441778255691]}\"\r\nPaget
+      Primary School,Paget Road,B24 0JP,412460,291569,http://www.paget.bham.sch.uk/,Primary,Community
+      School,330,2149,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81779258539503,52.5218771728008]}\"\r\nPark
+      Hill Primary School,Alcester Road,B13 8BB,407712,283660,http://www.parkhill.bham.sch.uk/,Primary,Community
+      School,330,2150,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88796391096919,52.450853726199]}\"\r\nParkfield
+      Community School,Parkfield Road,B8 3AX,410318,287495,http://www.parkfield.bham.sch.uk/,Primary,Academy
+      Converter,330,2458,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84948638449417,52.4852877323601]}\"\r\nPegasus
+      Primary School,Turnhouse Road,B35 6PR,414848,291474,http://www.pegasusprimary.co.uk,Primary,Academy
+      Converter,330,2452,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.78261715750156,52.5209638256932]}\"\r\nPenns
+      Primary School,Berwood Road,B72 1BS,412545,292802,http://www.pennsji.bham.sch.uk/,Primary,Community
+      School,330,2425,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81650847508907,52.53295970836]}\"\r\nPercy
+      Shurmer Academy,Longmore Street,B12 9ED,407458,285109,http://www.percyshurmeracademy.org/,Primary,Academy
+      Sponsor Led,330,2057,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8916694250316,52.463892616386]}\"\r\nPerry
+      Beeches II The Free School,Newhall Street,B3 1SJ,406394,287322,http://www.perrybeechesii.co.uk/,Secondary,Free
+      Schools,330,4002,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.9072884931883,52.4837917189239]}\"\r\nPerry
+      Beeches III The Free School,\"Langley Point, Zone 10c, Bath Row\",B15 1LZ,406317,286062,http://www.perrybeechesiii.co.uk/welcome-to-our-website/,Secondary,Free
+      Schools,330,4011,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90844578681963,52.4724652704016]}\"\r\nPerry
+      Beeches Infant School,Beeches Road,B42 2PY,406423,293635,http://www.perrybeeches-inf.bham.sch.uk/,Infants,Community
+      School,330,2017,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90674182327537,52.5405535198972]}\"\r\nPerry
+      Beeches IV - The Free School,\"St George's Court, 1 Albion Street\",B1 3AA,405869,287381,http://www.perrybeechesiv.co.uk/,Secondary,Free
+      Schools,330,4016,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91500606765536,52.4843359269839]}\"\r\nPerry
+      Beeches Junior School,Beeches Road,B42 2PY,406385,293686,http://www.perrybj.bham.sch.uk/,Juniors,Community
+      School,330,2016,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90728647568345,52.5410034908105]}\"\r\nPerry
+      Beeches Nursery School,256 Beeches Road,B42 2PX,406357,293534,http://www.perrybn.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1008,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90770216122384,52.539646283377]}\"\r\nPerry
+      Beeches the Academy,Beeches Road,B42 2PY,406307,293655,http://www.perrybs.bham.sch.uk/,Secondary,Academy
+      Converter,330,4109,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90845180682921,52.5407256988031]}\"\r\nPerry
+      Beeches V - The All Through Family School,Talbot Way,B10 0HJ,410547,284979,http://www.perrybeechesv.co.uk/,All
+      Through,Free Schools,330,4019,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.846206135692,52.4626656477823]}\"\r\nPlantsbrook
+      School,Upper Holland Road,B72 1RB,412397,295666,http://web.plantsbrookschool.co.uk/,Secondary,Academy
+      Converter,330,4331,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81856958353748,52.5587098625733]}\"\r\nPriestley
+      Smith School,\"Perry Beeches Campus, Beeches Road\",B42 2PY,406360,293632,http://www.priestleysmith.co.uk/,Special,Community
+      School,330,7034,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90767077970669,52.5405272840229]}\"\r\nPrince
+      Albert Junior and Infant School,Albert Road,B6 5NH,407346,289594,http://www.princealbert.bham.sch.uk/,Primary,Academy
+      Converter,330,2003,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89322066642897,52.5042050363388]}\"\r\nPrincethorpe
+      Infant School,Princethorpe Road,B29 5QB,402219,282005,http://www.princethorpeinfants.org.uk/,Infants,Community
+      School,330,2156,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96878567954316,52.4360329075737]}\"\r\nPrincethorpe
+      Junior School,Princethorpe Road,B29 5QB,402201,282039,http://www.princethorpejuniors.org.uk/,Juniors,Community
+      School,330,2155,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96906489699753,52.4363386428007]}\"\r\nQueensbridge
+      School,Queensbridge Road,B13 8QB,407343,282575,http://www.queensbridge.bham.sch.uk/,Secondary,Foundation
+      School,330,4173,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89340229480892,52.4411045790907]}\"\r\nQueensbury
+      School,Wood End Road,B24 8BL,410933,291006,http://www.queensburysch.com/,Special,Community
+      School,330,7036,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84033060514852,52.5168483549124]}\"\r\nQuinton
+      Church Primary School,Hagley Road West,B32 1AJ,399465,284757,http://www.quinton.bham.sch.uk/,Primary,Voluntary
+      Controlled School,330,3004,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00931552955027,52.4607770640833]}\"\r\nRaddlebarn
+      Primary School,Gristhorpe Road,B29 7TD,405015,282095,http://www.raddlebarn.co.uk/,Primary,Community
+      School,330,2157,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92765682176381,52.4368151651834]}\"\r\nReach
+      School,Kings Heath High Street,B14 7BB,407407,282215,http://www.reachschool.co.uk/,Alternative,Free
+      Schools,330,1107,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89246864465185,52.4378762535489]}\"\r\nReaside
+      Academy,Tresco Close,B45 0HY,398334,278178,http://www.reasideacademy.com/,Juniors,Academy
+      Sponsor Led,330,2080,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.02591733965899,52.4016255624258]}\"\r\nRedhill
+      Junior and Infant School,Redhill Road,B25 8HQ,411421,284986,http://www.redhill.bham.sch.uk/,Primary,Community
+      School,330,2159,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83334358848091,52.4627102750721]}\"\r\nRednal
+      Hill Infant School,Irwin Avenue,B45 8QY,400077,277063,http://www.rednalhill-inf.bham.sch.uk/,Infants,Community
+      School,330,2161,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00029269337981,52.3915991278137]}\"\r\nRednal
+      Hill Junior School,Irwin Avenue,B45 8QY,399996,277029,http://www.rednalhill-jun.bham.sch.uk/,Juniors,Community
+      School,330,2160,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.0014976020228,52.3912934495815]}\"\r\nRegents
+      Park Community Primary School,Arthur Street,B10 0NJ,408998,285906,http://www.rgntpark.bham.sch.uk/,Primary,Community
+      School,330,2063,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86896680068176,52.4710347415866]}\"\r\nRobin
+      Hood Academy,Pitmaston Road,B28 9PP,411551,280899,http://www.robinhoodprimary.com/,Primary,Academy
+      Converter,330,2460,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8315701328319,52.4259655505864]}\"\r\nRockwood
+      Academy,Naseby Road,B8 3HG,410519,288115,http://www.rockwood-academy.co.uk/,Secondary,Academy
+      Converter,330,4323,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84651358159853,52.490862926963]}\"\r\nRookery
+      School,Rookery Road,B21 9PY,404249,290355,http://www.rookeryschool.co.uk/,Primary,Academy
+      Converter,330,2481,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93883677077124,52.5110875230344]}\"\r\nRubery
+      Nursery School,Leybrook Road,B45 9PB,399918,277728,http://www.ruberyn.bham.sch.uk,Nursery,LA
+      Nursery School,330,1018,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00264417247096,52.3975774968433]}\"\r\nSacred
+      Heart Catholic School,Earlsbury Gardens,B20 3AE,406819,290177,http://www.sacredheart.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3409,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90097274772651,52.5094618049894]}\"\r\nSaint
+      Barnabas Church of England Primary School,Spring Lane,B24 9BY,411470,291450,http://www.stbarnabaserdington.com/,Primary,Voluntary
+      Aided School,330,3302,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83238734517457,52.5208199517366]}\"\r\nSaltley
+      Academy,Belchers Lane,B9 5RX,411506,287348,http://www.saltley.bham.sch.uk/,Secondary,Academy
+      Sponsor Led,330,4018,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83199715413884,52.4839516319129]}\"\r\nSelly
+      Oak Nursery School,26 Tiverton Road,B29 6BP,404591,282925,http://www.sellyoak-nur.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1000,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93389137190837,52.444288623819]}\"\r\nSelly
+      Oak Trust School,Oak Tree Lane,B29 6HZ,404294,281903,http://www.sellyoak.bham.sch.uk/,Special,Foundation
+      School,330,7033,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93827953534291,52.4351040145674]}\"\r\nSelly
+      Park Technology College for Girls,5 Selly Park Road,B29 7PH,405625,282071,http://www.sellyprk.bham.sch.uk/,Secondary,Community
+      School,330,4177,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91869893076582,52.4366025696651]}\"\r\nSeverne
+      Junior Infant and Nursery School,Severne Road,B27 7HR,412204,281781,http://www.severne.bham.sch.uk/,Primary,Community
+      School,330,2169,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82193516546041,52.4338896453719]}\"\r\nShaw
+      Hill Primary School,Anthony Road,B8 3AN,410628,287770,http://www.shawhill.bham.sch.uk/,Primary,Community
+      School,330,2008,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84491418034112,52.4877584929085]}\"\r\nShenley
+      Academy,Shenley Lane,B29 4HE,401668,281322,http://www.shenleyacademy.org/,Secondary,Academy
+      Sponsor Led,330,6907,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97690843765083,52.4298856227696]}\"\r\nShenley
+      Fields Nursery School,Farwood Road,B31 1BU,401189,281429,http://www.shenleyfields.com,Nursery,LA
+      Nursery School,330,1038,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.98395288674858,52.4308540896945]}\"\r\nSkilts
+      School,Gorcott Hill,B98 9ET,409453,267757,http://www.skilts.bham.sch.uk/,Special,Community
+      School,330,7037,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86278903877803,52.3078574540963]}\"\r\nSlade
+      Primary School,Slade Road,B23 7PX,409734,290646,http://www.slade.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2037,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85800989624215,52.5136255089781]}\"\r\nSladefield
+      Infant School,Bamville Road,B8 2TJ,411483,288289,http://www.slfield.bham.sch.uk/,Infants,Community
+      School,330,2174,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83231835512396,52.4924116388686]}\"\r\nSmall
+      Heath School,Muntz Street,B10 9RX,409802,285935,http://www.smallheathschool.org.uk/,Secondary,Foundation
+      School,330,5401,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85714493161068,52.4712728266996]}\"\r\nSomerville
+      Primary (NC) School,Somerville Road,B10 9EN,409939,285898,http://web.somerville.bham.sch.uk/,Primary,Community
+      School,330,2176,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85512922552367,52.4709377572459]}\"\r\nSpringfield
+      House Community Special School,Kenilworth Road,B93 0AJ,420202,276192,http://www.spfldhs.bham.sch.uk/,Special,Community
+      School,330,7047,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.70461690459625,52.3834094830564]}\"\r\nSpringfield
+      Primary School,Springfield Road,B13 9NY,409710,282827,http://www.springf.bham.sch.uk/,Primary,Community
+      School,330,3413,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85857827216407,52.4433345250823]}\"\r\nSt
+      Alban's Catholic Primary School,Broad Lane,B14 5AL,407671,279620,http://www.st-albans.eschools.co.uk/site,Primary,Voluntary
+      Aided School,330,3381,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88864384923069,52.4145435871339]}\"\r\nSt
+      Ambrose Barlow Catholic Primary School,Shirley Road,B28 9JJ,411298,280744,http://www.sab.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3380,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83528123117057,52.4245862463004]}\"\r\nSt
+      Anne's Catholic Primary School,Lowe Street,B12 0ER,408274,285837,http://www.st-annes.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3335,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87962652654801,52.4704257287731]}\"\r\nSt
+      Augustine's Catholic Primary School,Avenue Road,B21 8ED,403821,290703,http://www.staugust.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3329,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94512457532836,52.5142136878896]}\"\r\nSt
+      Benedict's Infant School,St Benedict's Road,B10 9DP,410637,285451,http://www.stbendic.bham.sch.uk/,Infants,Community
+      School,330,2183,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84486799093407,52.4669152220464]}\"\r\nSt
+      Bernadette's Catholic Primary School,Hobmoor Road,B25 8QL,411804,285671,http://www.stberns.co.uk/,Primary,Voluntary
+      Aided School,330,3372,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82767956941013,52.4688647561126]}\"\r\nSt
+      Bernard's Catholic Primary School,Wake Green Road,B13 9QE,409520,282119,http://birmingham.schooljotter.com/bernards,Primary,Voluntary
+      Aided School,330,3375,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86140374862324,52.4369720500727]}\"\r\nSt
+      Brigid's Catholic Primary School,Frankley Beeches Road,B31 5AB,401713,279200,http://www.stbrigid.bham.sch.uk/,Primary,Academy
+      Converter,330,3330,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97625377987907,52.4108175764312]}\"\r\nSt
+      Catherine of Siena Catholic Primary School,Great Colmore Street,B15 2AY,406809,285998,http://www.stcathrc.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3331,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90120407339432,52.4718840907909]}\"\r\nSt
+      Chad's Catholic Primary School,Hospital Street,B19 3XD,406810,288288,http://www.stchadsprimary.co.uk/,Primary,Voluntary
+      Aided School,330,3337,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90112868784173,52.4924799670225]}\"\r\nSt
+      Clare's Catholic Primary School,Robert Road,B20 3RT,405988,290246,http://www.stclare.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3406,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91320076879086,52.510091677675]}\"\r\nSt
+      Clement's Church of England Academy,Butlin Street,B7 5NS,409064,289149,http://www.stclemce.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2059,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86790812249922,52.5001790169489]}\"\r\nSt
+      Columba's Catholic Primary School,Lickey Road,B45 8TD,400713,277407,http://www.stcolumba.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2154,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.99094628780602,52.3946914112337]}\"\r\nSt
+      Cuthbert's RC Junior and Infant (NC) School,Gumbleberrys Close,B8 2PS,412418,287602,http://www.stcuthbt.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3386,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81857294923269,52.4862063732238]}\"\r\nSt
+      Dunstan's Catholic Primary School,Drayton Road,B14 7LP,407589,281591,http://www.stdunstans.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3363,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88980537425525,52.4322551207441]}\"\r\nSt
+      Edmund Campion Catholic School & Sixth Form Centre,Sutton Road,B23 5XA,411586,292508,http://www.stedcamp.bham.sch.uk/,Secondary,Voluntary
+      Aided School,330,4663,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83064123640625,52.530337743216]}\"\r\nSt
+      Edmund's Catholic Primary School,Rosebery Street,B18 7PA,405311,287679,http://www.stedmund.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3347,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92321586916351,52.4870124764301]}\"\r\nSt
+      Edward's Catholic Primary School,Greenland Road,B29 7PN,405600,282305,http://www.stedward.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3355,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91905264208841,52.4386993136596]}\"\r\nSt
+      Francis Catholic Primary School,Nursery Road,B19 1PH,405921,288874,http://www.stfranrc.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3342,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91422656630132,52.4977582730348]}\"\r\nSt
+      Francis Church of England Aided Primary School and Nursery,Teazel Avenue,B30
+      1LZ,403796,280592,http://www.stfrancisprimaryandnursery.co.uk/,Primary,Voluntary
+      Aided School,330,5205,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94561913517744,52.4233127200996]}\"\r\n\"St
+      George's Church of England Academy, Newtown\",St George's Street,B19 3QY,406669,288054,http://www.stgnewtown.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2104,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90320997512746,52.4903691112315]}\"\r\nSt
+      George's Church of England Primary School,Beaufort Road,B16 8HY,404955,286137,http://www.stgeorgesb16.com/,Primary,Academy
+      Sponsor Led,330,2120,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92848081390327,52.4731532582902]}\"\r\nSt
+      Georges Academy,Great Hampton Row,B19 3JG,406560,288056,http://www.stgeorgesacademy.org.uk/,Alternative,Free
+      Schools,330,1108,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90482992599839,52.4903883953387]}\"\r\nSt
+      Gerard's RC Junior and Infant School,Yatesbury Avenue,B35 6LB,414575,291660,http://www.stgerard.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3367,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.78663253384658,52.5226343174002]}\"\r\nSt
+      James Catholic Primary School,Leach Heath Lane,B45 9BN,399289,277142,http://www.stjamescatholicprimary.co.uk,Primary,Academy
+      Converter,330,3358,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.0118869027365,52.3923176803396]}\"\r\n\"St
+      James Church of England Primary School, Handsworth\",Sandwell Road,B21 8NH,403546,289996,http://www.stjamesce.bham.sch.uk/page/default.asp?title=Home&pid=1,Primary,Voluntary
+      Controlled School,330,3010,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94919878619469,52.5078650429601]}\"\r\nSt
+      John and Monica Catholic Primary School,Chantry Road,B13 8DW,407273,283611,http://www.stjonmon.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3410,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89442453939155,52.4504280756117]}\"\r\nSt
+      John Fisher Catholic Primary School,Alvechurch Road,B31 3PN,402834,277295,http://www.stjonfsh.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3360,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.95977763242236,52.3936781291011]}\"\r\nSt
+      John Wall Catholic School - A Specialist Humanities College,Oxhill Road,B21
+      8HH,403467,290917,http://www.sjw.bham.sch.uk/,Secondary,Voluntary Aided School,330,4625,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.95033955229021,52.5161382771761]}\"\r\nSt
+      John's and St Peter's CofE Academy,St Vincent Street West,B16 8RN,405362,286621,http://www.stjohnsandstpeters.co.uk/,Primary,Academy
+      Sponsor Led,330,2071,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92248141310049,52.4775006518592]}\"\r\nSt
+      John's CofE Primary School,Stratford Road,B11 4EA,409302,283513,http://www.st-johns-pri.bham.sch.uk/,Primary,Academy
+      Converter,330,3306,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86457212486388,52.4495078080085]}\"\r\nSt
+      Joseph's Catholic Primary School (B30),Selly Oak Road,B30 1HN,404545,280485,http://www.stjosb30.bham.sch.uk,Primary,Academy
+      Sponsor Led,330,2158,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93459172115552,52.4223452361053]}\"\r\nSt
+      Joseph's Catholic Primary School (B7),Rocky Lane,B7 5HA,408717,288691,http://www.stjosb7.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3339,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87304625895841,52.4960672465694]}\"\r\nSt
+      Joseph's RC Primary School,Little Sutton Lane,B75 6PB,412208,297239,http://stjosutton.net/,Primary,Academy
+      Converter,330,3401,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82130006481422,52.5728550183087]}\"\r\nSt
+      Jude's Catholic Primary School,St Jude's Close,B14 5PD,407622,278602,http://www.stjuderc.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3377,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88939438481452,52.4053852224509]}\"\r\nSt
+      Laurence Church Infant School,Bunbury Road,B31 2DJ,402515,279595,http://www.stlrnci.bham.sch.uk/,Infants,Voluntary
+      Aided School,330,3371,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96444948230272,52.4143643469392]}\"\r\nSt
+      Laurence Church Junior School,Bunbury Road,B31 2DJ,402629,279653,http://www.stlrncj.bham.sch.uk/,Juniors,Voluntary
+      Aided School,330,3307,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96278710946787,52.4148866414646]}\"\r\nSt
+      Margaret Mary RC Junior and Infant School,Perry Common Road,B23 7AB,409338,292832,http://www.stmgtmry.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3361,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86378444267628,52.5332931306295]}\"\r\nSt
+      Mark's Catholic Primary School,Almond Croft,B42 1NU,404938,292961,http://www.stmarkrc.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3383,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92863226819759,52.5345005473269]}\"\r\nSt
+      Martin de Porres Catholic Primary School,Oakland Road,B13 9DN,408131,283313,http://www.stmartindeporres.org.uk/,Primary,Voluntary
+      Aided School,330,3382,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88179228563615,52.4477281979032]}\"\r\nSt
+      Mary and St John Junior and Infant School,Beaufort Road,B23 7NB,410393,290978,http://www.stmryjon.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3350,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84827443265025,52.5166070479742]}\"\r\nSt
+      Mary's Catholic Primary School,Vivian Road,B17 0DN,403349,284282,http://www.stmaryrc.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3344,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.95215372963442,52.4564959202272]}\"\r\nSt
+      Mary's Church of England Primary School,Lodge Hill Road,B29 6NU,403968,282345,http://www.stmryb29.bham.sch.uk/,Primary,Voluntary
+      Controlled School,330,3025,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94305496258275,52.4390800192666]}\"\r\n\"St
+      Marys C of E Primary and Nursery, Academy, Handsworth\",Hamstead Road,B20 2RW,405566,290369,http://www.stmryb20.bham.sch.uk/,Primary,Academy
+      Converter,330,3015,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.91941655707283,52.5111928714867]}\"\r\nSt
+      Matthew's CofE Primary School,Duddeston Manor Road,B7 4JR,408362,287926,http://www.st-matthews.bham.sch.uk/,Primary,Voluntary
+      Controlled School,330,3016,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87827944146748,52.4891954159501]}\"\r\nSt
+      Michael's Church of England Aided Primary School,Nantmel Grove,B32 3JS,400066,281609,http://www.stmicb32.bham.sch.uk/,Primary,Academy
+      Converter,330,3311,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00045503547455,52.4324769190648]}\"\r\n\"St
+      Michael's CofE Primary Academy, Handsworth\",Piers Road,B21 0UX,405201,289195,http://www.stmich21.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2061,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92481257940441,52.5006511950647]}\"\r\nSt
+      Nicholas Catholic Primary School,Jockey Road,B73 5US,410957,294672,http://www.stnicholassutton.org.uk/,Primary,Academy
+      Converter,330,3403,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83984259281167,52.5498046178742]}\"\r\nSt
+      Patrick's Catholic Primary School,Dudley Road,B18 7QW,404740,287594,http://www.stpatrc.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3346,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93164044494217,52.486262411069]}\"\r\nSt
+      Paul's Catholic Primary School,Sisefield Road,B38 9JB,405226,278132,http://www.stpaulrc.bham.sch.uk/,Primary,Academy
+      Converter,330,3366,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92462827620016,52.4011857451931]}\"\r\nSt
+      Paul's School for Girls,Vernon Road,B16 9SL,404120,286404,http://www.stpaulgl.bham.sch.uk/page_viewer.asp?page=Home&pid=1,Secondary,Voluntary
+      Aided School,330,4606,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94077033207516,52.4755692666952]}\"\r\nSt
+      Peter and St Paul RC Junior and Infant School,Kingsbury Road,B24 9ND,412042,291159,http://www.ssptrpl.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3362,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82398248496869,52.5182006378929]}\"\r\nSt
+      Peter's Catholic Primary School,Adams Hill,B32 3QD,400113,282037,http://www.stpeterc.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3385,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.99977398974491,52.4363183392611]}\"\r\nSt
+      Peters CofE Primary School,Old Church Road,B17 0BE,402937,284031,http://www.st-petersce.bham.sch.uk/,Primary,Voluntary
+      Controlled School,330,3428,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.95821126944787,52.4542350763885]}\"\r\nSt
+      Saviour's C of E Primary School,Alum Rock Road,B8 1JB,409777,288193,http://www.stsavioursceprimary.co.uk/,Primary,Voluntary
+      Controlled School,330,3019,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85744749710503,52.4915725576046]}\"\r\nSt
+      Teresa's Catholic Primary School,Butlers Road,B20 2NY,405327,290997,http://www.stteresa.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3365,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92292826241925,52.5168408642329]}\"\r\nSt
+      Thomas Aquinas Catholic School,Wychall Lane,B38 8AP,403680,279116,http://www.stacs.org/,Secondary,Academy
+      Converter,330,4616,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94732598037644,52.4100441898818]}\"\r\nSt
+      Thomas Centre Nursery,Bell Barn Road,B15 2AF,406469,285699,http://www.stthomaschildrenscentre.co.uk/,Nursery,LA
+      Nursery School,330,1009,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90620035081463,52.4692090894419]}\"\r\nSt
+      Thomas More Catholic Primary School,Horse Shoes Lane,B26 3HU,414853,284288,http://www.sttommor.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3349,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.78284678319722,52.4563534694398]}\"\r\nSt
+      Thomas' Church of England VA Primary School,Great Colmore Street,B15 2AT,406599,285950,http://www.stthomasprimary.bham.sch.uk/,Primary,Academy
+      Converter,330,3314,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90428181183135,52.4714640245205]}\"\r\nSt
+      Vincent's Catholic Primary School,Vauxhall Grove,B7 4HP,408565,287471,http://www.stvincnt.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3310,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87531603862861,52.4851019124358]}\"\r\nSt
+      Wilfrid's Catholic Junior and Infant School,Shawsdale Road,B36 8LY,413647,289690,http://www.stwilfrd.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3359,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.80038970168001,52.5049570726807]}\"\r\nStanville
+      Primary School,Stanville Road,B26 3YN,415101,284958,https://intranet.stanville.bham.sch.uk/home/SitePages/Homepage.aspx,Primary,Community
+      School,330,2178,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.77918173719594,52.4623699818051]}\"\r\nStarbank
+      School,Starbank Road,B10 9LR,411459,285797,http://www.starbankprimary.co.uk/www/,All
+      Through,Community School,330,2179,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83275669583003,52.4700003083984]}\"\r\nStechford
+      Primary School,Albert Road,B33 8SJ,412787,286866,http://www.stechfordprimary.co.uk/bham/primary/stechford,Primary,Community
+      School,330,2184,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81315232462042,52.4795813445758]}\"\r\nStirchley
+      Primary School,Pershore Road,B30 2JL,405323,280906,http://www.stirchly.bham.sch.uk/,Primary,Community
+      School,330,2188,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92315939163391,52.4261231942009]}\"\r\nStockland
+      Green School,Slade Road,B23 7JH,409471,291714,http://www.stockgrn.bham.sch.uk/home/,Secondary,Academy
+      Converter,330,4206,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86185522384803,52.5232402035354]}\"\r\nStory
+      Wood School and Children's Centre,Hastings Road,B23 5AJ,408959,293314,http://www.storywood.bham.sch.uk/,Primary,Community
+      School,330,2097,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86935879761618,52.5376325378727]}\"\r\nSummerfield
+      Junior and Infant School,Cuthbert Road,B18 4AH,404194,287870,http://www.sumfield.bham.sch.uk/,Primary,Community
+      School,330,2067,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93966293576144,52.4887479864918]}\"\r\nSundridge
+      Primary School,Sundridge Road,B44 9NY,407135,295552,http://www.sundridge.bham.sch.uk/,Primary,Community
+      School,330,2190,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89620330585224,52.5577783408591]}\"\r\nSutton
+      Coldfield Grammar School for Girls,Jockey Road,B73 5PT,411635,295172,http://www.suttcold.bham.sch.uk/scgsg/index.php,Secondary,Academy
+      Converter,330,4300,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82982651809302,52.5542855726416]}\"\r\nSwanshurst
+      School,Brook Lane,B13 0TW,408652,281305,http://www.swanshurst.org/,Secondary,Community
+      School,330,4237,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87418380522988,52.4296728453446]}\"\r\nTame
+      Valley Academy,Chillinghome Road,B36 8QJ,412684,289875,http://www.tamevalleyacademy.co.uk/,Primary,Academy
+      Sponsor Led,330,2098,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.814569987321,52.5066343151714]}\"\r\nThe
+      Abbey RC Junior and Infant School,Sutton Road,B23 6QL,411171,292415,http://www.abbeyrc.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3318,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83677647555671,52.5295102551539]}\"\r\nThe
+      Arthur Terry School,Kittoe Road,B74 4RZ,411195,299105,http://www.arthurterry.bham.sch.uk/,Secondary,Academy
+      Converter,330,4307,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83619345801512,52.5896443671839]}\"\r\nThe
+      Baverstock Academy,501 Bells Lane,B14 5TL,407488,278603,http://www.baverstock.bham.sch.uk/,Secondary,Academy
+      Converter,330,5400,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.89135675084995,52.4054032142401]}\"\r\nThe
+      Bridge School,Coppice View Road,B73 6UE,408473,295521,http://www.bridgespecialschool.co.uk/,Special,Community
+      School,330,7049,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87645825607638,52.5574780467041]}\"\r\nThe
+      Dame Ellen Pinsent School,Ardencote Road,B13 0RW,408046,281070,http://www.dameellenpinsent.bham.sch.uk/,Special,Community
+      School,330,7035,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88309612256564,52.4275648791516]}\"\r\nThe
+      Deanery Church of England Primary School,Fox Hollies Road,B76 2RD,413893,293891,http://web.deanery.bham.sch.uk/,Primary,Academy
+      Converter,330,5201,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79657678432978,52.5427082575583]}\"\r\nThe
+      Edge Academy,946 Bristol Street South,B31 2LQ,401954,279254,http://www.theedgeacademy.co.uk/,Alternative,Free
+      Schools,330,1111,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97270854924705,52.4112957646956]}\"\r\nThe
+      International School,Gressel Lane,B33 9UF,415713,287288,http://www.tisbham.org/,Secondary,Community
+      School,330,4244,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.77006530071029,52.4832993328731]}\"\r\nThe
+      Meadows Primary School,Bristol Road South,B31 2SW,401320,278456,http://www.meadowsprimary.org/,Primary,Community
+      School,330,2246,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.98203688498621,52.4041210098065]}\"\r\nThe
+      Oaklands Primary School,Dolphin Lane,B27 7BT,412292,282585,http://www.theoaklands.org.uk/,Primary,Academy
+      Converter,330,2064,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8205968369831,52.4411156120032]}\"\r\nThe
+      Oaks Primary School,Bells Lane,B14 5RY,406809,278566,http://www.theoaks.bham.sch.uk/,Primary,Community
+      School,330,2018,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90135290934161,52.4050703351261]}\"\r\nThe
+      Oratory Roman Catholic Primary School,Oliver Road,B16 9ER,404949,286613,http://www.oratory.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3323,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92856226735164,52.4774414625127]}\"\r\nThe
+      Orchards Primary Academy,Rhayader Road,B31 1TX,401109,280042,http://www.theorchardsprimary.com/,Primary,Academy
+      Converter,330,2249,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.98511896534005,52.4183886194146]}\"\r\nThe
+      Oval Primary School,Whittington Oval,B33 8JG,413952,286945,http://www.theovalprimary.co.uk/,Primary,Community
+      School,330,2447,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79601039502822,52.4802632625437]}\"\r\nThe
+      Pines Special School,Dreghorn Road,B36 8LL,413525,289672,http://www.thepinesspecialschool.com/,Special,Community
+      School,330,7045,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.80217314723293,52.5047893023723]}\"\r\nThe
+      Rosary Catholic Primary School,Bridge Road,B8 3SF,410227,287471,http://www.rosaryrc.bham.sch.uk/,Primary,Voluntary
+      Aided School,330,3325,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8508271721146,52.4850736389749]}\"\r\nThe
+      Shirestone Academy,Shirestone Road,B33 0DH,415849,286883,http://www.shirestn.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2058,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.76808173046515,52.4796634789992]}\"\r\nThe
+      University of Birmingham School,Weoley Park Road,B29 6QU,403674,281966,http://www.universityschool.bham.ac.uk/,Secondary,Free
+      Schools,330,4014,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94739566854013,52.4356738866091]}\"\r\nThornton
+      Primary School,Thornton Road,B8 2LQ,411778,288113,http://www.thornton.bham.sch.uk/,Primary,Community
+      School,330,2192,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8279797052133,52.490823195431]}\"\r\nTimberley
+      Academy,Bradley Road,B34 7RL,415645,288803,http://www.timberleyacademy.co.uk/,Primary,Academy
+      Converter,330,2195,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.77099588660564,52.496929878919]}\"\r\nTiverton
+      Academy,Tiverton Road,B29 6BW,404674,282846,http://www.tiverton.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2126,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93266255883583,52.443578554451]}\"\r\nTopcliffe
+      Primary School,Hawkinge Drive,B35 6BS,414091,291445,http://www.topcliffe.bham.sch.uk/,Primary,Community
+      School,330,2273,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79376020395235,52.5207141163063]}\"\r\nTown
+      Junior School,Ebrook Road,B72 1NX,412453,295589,http://www.townj.bham.sch.uk/,Juniors,Academy
+      Sponsor Led,330,2145,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8177611356171,52.5580164228528]}\"\r\nTurves
+      Green Boys' School,Turves Green,B31 4BS,402114,277845,http://frog.turvesgreenboys.bham.sch.uk/,Secondary,Community
+      School,330,4188,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97035500209825,52.398634693787]}\"\r\nTurves
+      Green Girls' School and Technology College,Turves Green,B31 4BP,402255,278134,http://www.turvgng.bham.sch.uk/,Secondary,Foundation
+      School,330,4187,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96828090528503,52.4012233715257]}\"\r\nTurves
+      Green Primary School,Northfield,B31 4BP,402211,278019,http://www.turvesgreen-pri.bham.sch.uk/,Primary,Community
+      School,330,2442,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96893601789355,52.4001941149742]}\"\r\nTwickenham
+      Primary School,Twickenham Road,B44 0NR,409145,294323,http://www.twicknhm.bham.sch.uk/,Primary,Academy
+      Converter,330,2449,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86657441880916,52.5466912403114]}\"\r\nUffculme
+      School,Queensbridge Road,B13 8QB,407329,282451,http://www.uffculme.bham.sch.uk/,Special,Community
+      School,330,7014,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8936255841257,52.4399989637785]}\"\r\nVictoria
+      School,Bell Hill,B31 1LD,402107,280246,http://www.victoria.bham.sch.uk/,Special,Community
+      School,330,7009,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97045828399793,52.4202198899522]}\"\r\nWalmley
+      Infant School,Walmley Ash Road,B76 1JB,414279,293095,http://www.walmleyinfantschool.co.uk/,Infants,Foundation
+      School,330,5203,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79093386702887,52.5355424773616]}\"\r\nWalmley
+      Junior School,Walmley Ash Road,B76 1JB,414339,293059,http://www.walmley-jun.bham.sch.uk/,Juniors,Foundation
+      School,330,5202,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.79003615582871,52.5352172576954]}\"\r\nWard
+      End Primary School,Ingleton Road,B8 2RA,411512,288908,http://www.wardend.bham.sch.uk/,Primary,Community
+      School,330,2108,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8318554260986,52.4979667961256]}\"\r\nWarren
+      Farm Primary School,Aylesbury Crescent,B44 0DT,408467,293748,http://www.warrenfarm-primary.co.uk/,Primary,Academy
+      Converter,330,2068,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.87658691161529,52.54153294334]}\"\r\nWashwood
+      Heath Academy,Burney Lane,B8 2AS,412368,288077,http://washwoodheath.com/,Secondary,Academy
+      Converter,330,4084,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81929172066632,52.4904866342438]}\"\r\nWashwood
+      Heath Nursery School,201 Sladefield Road,B8 2SY,411431,288276,http://www.washwdhn.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1019,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83307002668011,52.4922868763072]}\"\r\nWater
+      Mill Primary School,Water Mill Close,B29 6TS,403691,283067,http://www.watermill.bham.sch.uk/,Primary,Community
+      School,330,2306,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.94712205987398,52.4455637300081]}\"\r\nWattville
+      Primary School,Wattville Road,B21 0DP,402992,289568,http://www.wattvilleprimary.bham.sch.uk/,Primary,Community
+      School,330,2482,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.95735012637255,52.5040142857161]}\"\r\nWaverley
+      School,Yardley Green Road,B9 5QA,411649,286411,http://www.waverley.bham.sch.uk/,All
+      Through,Academy Converter,330,4009,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82993853958799,52.4755161836678]}\"\r\nWaverley
+      Studio College,311 Yardley Green Road,B9 5QA,411663,286452,http://waverleystudiocollege.co.uk/,Secondary,Free
+      Schools,330,4010,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82971631389645,52.4758844373628]}\"\r\nWelford
+      Primary School,Welford Road,B20 2BL,405527,289591,http://www.welford.bham.sch.uk/,Primary,Community
+      School,330,2308,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.92001853597022,52.5041991473187]}\"\r\nWelsh
+      House Farm Community School and Special Needs Resources Base,Welsh House Farm
+      Road,B32 2NG,401868,283878,http://www.welshhousefarm.bham.sch.uk/,Primary,Community
+      School,330,2245,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.97395357338134,52.4528634828801]}\"\r\nWeoley
+      Castle Nursery School,109 Weoley Castle Road,B29 5QD,402250,282207,http://www.weoleycastlenursery.co.uk/,Nursery,LA
+      Nursery School,330,1020,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96834305238834,52.4378487955546]}\"\r\nWest
+      Heath Nursery School,200 West Heath Road,B31 3HB,402679,278048,http://www.wesththn.bham.sch.uk/,Nursery,LA
+      Nursery School,330,1014,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.96204963027254,52.4004573454618]}\"\r\nWest
+      Heath Primary School,Rednal Road,B38 8HU,403160,277974,http://www.westheathprimary.bham.sch.uk/,Primary,Community
+      School,330,2019,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.9549807504871,52.3997896282594]}\"\r\nWestminster
+      Primary School,Stamford Road,B20 3PN,406322,290223,http://www.westmnst.bham.sch.uk/page/default.asp?title=Home&pid=1,Primary,Community
+      School,330,2471,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.90828002765239,52.5098722838677]}\"\r\nWheelers
+      Lane Primary School,Wheelers Lane,B13 0SF,407736,281181,http://web.wheelerslane-pri.bham.sch.uk/,Primary,Community
+      School,330,2011,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88766435340929,52.4285716668891]}\"\r\nWheelers
+      Lane Technology College,Wheelers Lane,B13 0SF,407714,281254,http://www.wheelerslane.bham.sch.uk/,Secondary,Community
+      School,330,4193,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88798039729521,52.4292273315981]}\"\r\nWhitehouse
+      Common Primary School,Cotysmore Road,B75 6BL,412893,297005,http://www.whitehousecommon.bham.sch.uk/,Primary,Foundation
+      School,330,2478,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81120188260176,52.5707268323972]}\"\r\nWilkes
+      Green Infant School (NC),Antrobus Road,B21 9NT,404418,290175,http://www.wilkgrni.bham.sch.uk/,Infants,Community
+      School,330,2276,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93634898373514,52.5094680472892]}\"\r\nWilkes
+      Green Junior School,Antrobus Road,B21 9NT,404372,290137,http://www.wilkgrnj.bham.sch.uk/,Juniors,Community
+      School,330,2293,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.93701252021484,52.5091267918818]}\"\r\nWilson
+      Stuart School,Perry Common Road,B23 7AT,409042,292726,http://www.wilsonstuart.co.uk/,Special,Academy
+      Special Converter,330,7031,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86815085131132,52.5323451379197]}\"\r\nWoodcock
+      Hill Primary School,Farwood Road,B31 1BS,401210,281475,http://www.woodcockhillschool.org/,Primary,Community
+      School,330,2445,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.98364387191465,52.431271156006]}\"\r\nWoodgate
+      Primary School,Lutley Grove,B32 3PN,399676,282142,http://www.woodgateprimary.co.uk/,Primary,Community
+      School,330,2278,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-2.00619195663529,52.4372684036133]}\"\r\nWoodhouse
+      Primary Academy,Woodhouse Road,B32 2DL,401212,284646,http://www.woodhouse.priacademy.co.uk/,Primary,Academy
+      Sponsor Led,330,2136,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.98358947154823,52.4597695026194]}\"\r\nWoodthorpe
+      Junior and Infant School,Greenwood Close,B14 6ET,407163,280159,http://www.woodthorpe-school.com/,Primary,Community
+      School,330,2314,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.8961158591998,52.419387072133]}\"\r\nWorld's
+      End Infant and Nursery School,Worlds End Lane,B32 2SA,401032,284055,http://www.worldsendinfant.bham.sch.uk/,Infants,Community
+      School,330,2317,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.98624017802302,52.4544657283597]}\"\r\nWorld's
+      End Junior School,Worlds End Lane,B32 2SA,400961,284049,http://www.wejs.org.uk/,Juniors,Community
+      School,330,2225,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.98729965701243,52.4544029319955]}\"\r\nWychall
+      Primary School,Middle Field Road,B31 3EH,403473,278938,http://www.wychall.bham.sch.uk/,Primary,Academy
+      Converter,330,2480,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.95038550128221,52.4084452822309]}\"\r\nWylde
+      Green Primary School,Green Lanes,B73 5JL,411593,293337,http://wyldegreenprimaryschool.org.uk/,Primary,Community
+      School,330,2412,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83050944532534,52.5377812060273]}\"\r\nWyndcliffe
+      Primary School,Little Green Lane,B9 5BG,409661,286409,http://www.wyndcliffe.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2146,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.85920699871494,52.4755454766852]}\"\r\nYardley
+      Primary School,Harvey Road,B26 1TD,412917,285278,https://intranet.yardley.bham.sch.uk/default.aspx,Primary,Community
+      School,330,3421,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.81129915030114,52.4653112577843]}\"\r\nYardley
+      Wood Community Primary School,School Road,B14 4ER,409574,279763,http://www.ydlywood.bham.sch.uk/,Primary,Community
+      School,330,2227,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.86066141036339,52.4157995695231]}\"\r\nYardleys
+      School,Reddings Lane,B11 3EY,410688,283651,http://www.yardleys-vle.com,Secondary,Academy
+      Converter,330,4246,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84415972061495,52.4507233567733]}\"\r\nYarnfield
+      Primary School,Yarnfield Road,B11 3PJ,411202,283118,http://www.yarnfld.bham.sch.uk/,Primary,Academy
+      Sponsor Led,330,2122,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.83662608206671,52.4459236240517]}\"\r\nYenton
+      Primary School,Chester Road,B24 0ED,412050,292502,http://www.yenton.bham.sch.uk/,Primary,Community
+      School,330,2485,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82381645005258,52.5302648892817]}\"\r\nYew
+      Tree Community Junior and Infant School (NC),Yew Tree Road,B6 6RX,408053,290299,http://www.yewtree.bham.sch.uk/,Primary,Community
+      School,330,2180,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88278825874003,52.5105330689896]}\"\r\nYorkmead
+      Junior and Infant School,York Road,B28 8BB,410540,282541,http://www.yorkmead.co.uk/,Primary,Community
+      School,330,2231,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84637206363093,52.4407473048816]}\"\r\n\r\n--156982d11e2df1865d48b4866bea104a--\r\n"
+    headers:
+      accept:
+      - '*/*'
+      accept-encoding:
+      - gzip, deflate
+      connection:
+      - keep-alive
+      content-length:
+      - '95884'
+      content-type:
+      - multipart/form-data; boundary=156982d11e2df1865d48b4866bea104a
+      host:
+      - localhost:3333
+      user-agent:
+      - python-httpx/0.28.1
+    method: POST
+    uri: http://localhost:3333/command/core/create-project-from-upload?csrf_token=pQMHk1wIt6hcsWc3Vrv0JG4PjLbssxHF
+  response:
+    body:
+      string: ''
+    headers:
+      Content-Length:
+      - '0'
+      Date:
+      - Thu, 03 Jul 2025 21:20:25 GMT
+      Location:
+      - http://localhost:3333/project?project=2080237738439
+    status:
+      code: 302
+      message: Found
+- request:
+    body: operations=%5B%7B%22op%22%3A+%22core%2Frow-addition%22%2C+%22rows%22%3A+%5B%7B%22starred%22%3A+false%2C+%22flagged%22%3A+false%2C+%22cells%22%3A+%5B%5D%7D%5D%2C+%22index%22%3A+0%2C+%22description%22%3A+%22Add+rows%22%7D%5D
+    headers:
+      accept:
+      - '*/*'
+      accept-encoding:
+      - gzip, deflate
+      connection:
+      - keep-alive
+      content-length:
+      - '222'
+      content-type:
+      - application/x-www-form-urlencoded
+      host:
+      - localhost:3333
+      user-agent:
+      - python-httpx/0.28.1
+    method: POST
+    uri: http://localhost:3333/command/core/apply-operations?project=2080237738439&csrf_token=pQMHk1wIt6hcsWc3Vrv0JG4PjLbssxHF
+  response:
+    body:
+      string: '{ "code" : "ok" }'
+    headers:
+      Date:
+      - Thu, 03 Jul 2025 21:20:25 GMT
+      Transfer-Encoding:
+      - chunked
+    status:
+      code: 200
+      message: OK
+version: 1

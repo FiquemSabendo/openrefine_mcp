@@ -127,6 +127,28 @@ class TestOpenRefineClient:
         with pytest.raises(Exception):  # Should raise httpx.HTTPStatusError
             await client.export_csv(99999)
 
+    @pytest.mark.vcr
+    @pytest.mark.asyncio
+    async def test_delete_project_success(self, client, test_dataset_url):
+        """Test successful project deletion."""
+        # First create a project to delete
+        project_info = await client.create_project(
+            test_dataset_url, name="delete_project_success"
+        )
+
+        # Delete the project
+        deleted = await client.delete_project(project_info.project_id)
+
+        assert deleted is True
+
+    @pytest.mark.vcr
+    @pytest.mark.asyncio
+    async def test_delete_project_invalid_project(self, client):
+        """Test project deletion with invalid project ID."""
+        # OpenRefine returns success even for non-existent projects (idempotent)
+        deleted = await client.delete_project(99999)
+        assert deleted is True
+
     @pytest.mark.asyncio
     async def test_client_context_manager(self):
         """Test that client works as async context manager."""

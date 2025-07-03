@@ -206,6 +206,31 @@ class OpenRefineClient:
 
         return response.content
 
+    async def delete_project(self, project_id: int) -> bool:
+        """Delete an OpenRefine project.
+
+        Args:
+            project_id: ID of the project to delete
+
+        Returns:
+            True if the project was successfully deleted
+
+        Raises:
+            httpx.HTTPStatusError: If the API request fails
+        """
+        # Build the delete project URL
+        url = f"{self.base_url}/command/core/delete-project"
+        params = {"project": str(project_id)}
+
+        # Make the delete project request
+        response = await self._post(url, params=params)
+
+        # Parse the response
+        result = response.json()
+
+        # Check if deletion was successful
+        return result.get("code", "error") == "ok"
+
     async def close(self):
         """Close the HTTP client."""
         await self._client.aclose()

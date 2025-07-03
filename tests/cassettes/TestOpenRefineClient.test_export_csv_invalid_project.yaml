@@ -17,15 +17,15 @@ interactions:
   response:
     body:
       string: !!binary |
-        H4sIAAAAAAAAAKtWKsnPTs1TslKKiDCqSPWKKPd09g4KDwwxrKgIdS+rjEpzKUrxtcwoqVKqBQCW
-        GRZeLAAAAA==
+        H4sIAAAAAAAAAKtWKsnPTs1TslJyKwrP9DbMSHQP8DKOMDQvjAzPz/IId3Eq8MrOLXPzKFCqBQDu
+        DyzHLAAAAA==
     headers:
       Content-Encoding:
       - gzip
       Content-Type:
       - application/json
       Date:
-      - Thu, 03 Jul 2025 21:20:26 GMT
+      - Thu, 03 Jul 2025 21:30:20 GMT
       Transfer-Encoding:
       - chunked
       Vary:
@@ -49,7 +49,7 @@ interactions:
       user-agent:
       - python-httpx/0.28.1
     method: POST
-    uri: http://localhost:3333/command/core/export-rows?project=99999&format=csv&csrf_token=XX2xeJXwICKRWQT1xxUGvyZfDrdM9htz
+    uri: http://localhost:3333/command/core/export-rows?project=99999&format=csv&csrf_token=FrWiK1haGPJ3X17qYWojHWDBpJkmvFHp
   response:
     body:
       string: "<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html;charset=ISO-8859-1\"/>\n<title>Error
@@ -110,7 +110,7 @@ interactions:
       Content-Type:
       - text/html;charset=iso-8859-1
       Date:
-      - Thu, 03 Jul 2025 21:20:26 GMT
+      - Thu, 03 Jul 2025 21:30:20 GMT
     status:
       code: 500
       message: Server Error

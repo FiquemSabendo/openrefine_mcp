@@ -490,13 +490,13 @@ interactions:
       Cross-Origin-Resource-Policy:
       - cross-origin
       Date:
-      - Thu, 03 Jul 2025 21:20:25 GMT
+      - Thu, 03 Jul 2025 21:30:19 GMT
       ETag:
       - W/"593a55102168909d085f4659c7b9b0a50e55e778e197119664b72d6cf885420b"
       Expires:
-      - Thu, 03 Jul 2025 21:25:25 GMT
+      - Thu, 03 Jul 2025 21:35:19 GMT
       Source-Age:
-      - '251'
+      - '2'
       Strict-Transport-Security:
       - max-age=31536000
       Vary:
@@ -506,19 +506,19 @@ interactions:
       X-Cache:
       - HIT
       X-Cache-Hits:
-      - '12'
+      - '1'
       X-Content-Type-Options:
       - nosniff
       X-Fastly-Request-ID:
-      - 79d5b426257ae52537c31938bdd68e161a0747f0
+      - 40c4f7035e3bfee27de93435b4b8e0c939387bc4
       X-Frame-Options:
       - deny
       X-GitHub-Request-Id:
       - 2944:218D:54140:96465:6866F19E
       X-Served-By:
-      - cache-for8422-FOR
+      - cache-for8423-FOR
       X-Timer:
-      - S1751577626.833535,VS0,VE0
+      - S1751578220.559483,VS0,VE1
       X-XSS-Protection:
       - 1; mode=block
     status:
@@ -542,15 +542,15 @@ interactions:
   response:
     body:
       string: !!binary |
-        H4sIAAAAAAAAAKtWKsnPTs1TslKqLMo3qsrIcQrNTI9KTQ7184iIKvYodwtN8XJyivLI9FWqBQAV
-        O8SALAAAAA==
+        H4sIAAAAAAAAAKtWKsnPTs1TslIqjvIJdEtOcXEyLcrJqTAs9vTOL3Yp8M9wzQvJy0p0S1aqBQDw
+        vlcZLAAAAA==
     headers:
       Content-Encoding:
       - gzip
       Content-Type:
       - application/json
       Date:
-      - Thu, 03 Jul 2025 21:20:25 GMT
+      - Thu, 03 Jul 2025 21:30:19 GMT
       Transfer-Encoding:
       - chunked
       Vary:
@@ -559,9 +559,9 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: "--66548a2ccf556cd7734a9f1dfc004e6b\r\nContent-Disposition: form-data; name=\"project-name\"\r\n\r\napply_operations_success\r\n--66548a2ccf556cd7734a9f1dfc004e6b\r\nContent-Disposition:
-      form-data; name=\"project-file\"; filename=\"dataset.csv\"\r\nContent-Type:
-      text/csv\r\n\r\nschool_name,street,postcode,easting,northing,web_site,school_group,maintain_status,lea_no,dcfs_no,geom\r\nAcocks
+    body: "--2e4a988ee6119804b09b20a3003524f3\r\nContent-Disposition: form-data; name=\"project-name\"\r\n\r\nSample
+      Test Project\r\n--2e4a988ee6119804b09b20a3003524f3\r\nContent-Disposition: form-data;
+      name=\"project-file\"; filename=\"dataset.csv\"\r\nContent-Type: text/csv\r\n\r\nschool_name,street,postcode,easting,northing,web_site,school_group,maintain_status,lea_no,dcfs_no,geom\r\nAcocks
       Green Primary School,Westley Road,B27 7UQ,411976,283216,http://acocks.schooljotter2.com/,Primary,Academy
       Converter,330,2020,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82522312891254,52.4467952243302]}\"\r\nAdderley
       Nursery School,Adderley Road,B8 1EH,409476,287857,http://www.addleyn.bham.sch.uk/,Nursery,LA
@@ -1456,7 +1456,7 @@ interactions:
       Tree Community Junior and Infant School (NC),Yew Tree Road,B6 6RX,408053,290299,http://www.yewtree.bham.sch.uk/,Primary,Community
       School,330,2180,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88278825874003,52.5105330689896]}\"\r\nYorkmead
       Junior and Infant School,York Road,B28 8BB,410540,282541,http://www.yorkmead.co.uk/,Primary,Community
-      School,330,2231,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84637206363093,52.4407473048816]}\"\r\n\r\n--66548a2ccf556cd7734a9f1dfc004e6b--\r\n"
+      School,330,2231,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84637206363093,52.4407473048816]}\"\r\n\r\n--2e4a988ee6119804b09b20a3003524f3--\r\n"
     headers:
       accept:
       - '*/*'
@@ -1465,15 +1465,15 @@ interactions:
       connection:
       - keep-alive
       content-length:
-      - '95884'
+      - '95879'
       content-type:
-      - multipart/form-data; boundary=66548a2ccf556cd7734a9f1dfc004e6b
+      - multipart/form-data; boundary=2e4a988ee6119804b09b20a3003524f3
       host:
       - localhost:3333
       user-agent:
       - python-httpx/0.28.1
     method: POST
-    uri: http://localhost:3333/command/core/create-project-from-upload?csrf_token=yro2zhlBUigZecUNHXZsHwFUdJBBZHiM
+    uri: http://localhost:3333/command/core/create-project-from-upload?csrf_token=sZLQFcdDB5rllx1sIKosDpOhEnTnjaFc
   response:
     body:
       string: ''
@@ -1481,9 +1481,9 @@ interactions:
       Content-Length:
       - '0'
       Date:
-      - Thu, 03 Jul 2025 21:20:25 GMT
+      - Thu, 03 Jul 2025 21:30:19 GMT
       Location:
-      - http://localhost:3333/project?project=2315908763378
+      - http://localhost:3333/project?project=2751282045939
     status:
       code: 302
       message: Found
@@ -1505,13 +1505,43 @@ interactions:
       user-agent:
       - python-httpx/0.28.1
     method: POST
-    uri: http://localhost:3333/command/core/apply-operations?project=2315908763378&csrf_token=yro2zhlBUigZecUNHXZsHwFUdJBBZHiM
+    uri: http://localhost:3333/command/core/apply-operations?project=2751282045939&csrf_token=sZLQFcdDB5rllx1sIKosDpOhEnTnjaFc
   response:
     body:
       string: '{ "code" : "ok" }'
     headers:
       Date:
-      - Thu, 03 Jul 2025 21:20:25 GMT
+      - Thu, 03 Jul 2025 21:30:19 GMT
+      Transfer-Encoding:
+      - chunked
+    status:
+      code: 200
+      message: OK
+- request:
+    body: ''
+    headers:
+      accept:
+      - '*/*'
+      accept-encoding:
+      - gzip, deflate
+      connection:
+      - keep-alive
+      content-length:
+      - '0'
+      host:
+      - localhost:3333
+      user-agent:
+      - python-httpx/0.28.1
+    method: POST
+    uri: http://localhost:3333/command/core/delete-project?project=2751282045939&csrf_token=sZLQFcdDB5rllx1sIKosDpOhEnTnjaFc
+  response:
+    body:
+      string: '{ "code" : "ok" }'
+    headers:
+      Content-Type:
+      - application/json;charset=utf-8
+      Date:
+      - Thu, 03 Jul 2025 21:30:19 GMT
       Transfer-Encoding:
       - chunked
     status:

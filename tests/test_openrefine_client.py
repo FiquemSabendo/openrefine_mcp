@@ -2,23 +2,12 @@
 
 import json
 import pytest
+import pytest_asyncio
 from openrefine_mcp.openrefine_client import OpenRefineClient
 from openrefine_mcp.models import ProjectInfo, ApplySummary
 
 
 class TestOpenRefineClient:
-    """Test cases for OpenRefineClient."""
-
-    @pytest.fixture
-    def client(self):
-        """Create a test OpenRefine client."""
-        return OpenRefineClient()
-
-    @pytest.fixture
-    def test_dataset_url(self):
-        """Sample dataset URL for testing."""
-        return "https://raw.githubusercontent.com/vitorbaptista/birmingham_schools/refs/heads/master/data/birmingham_schools.csv"
-
     @pytest.mark.vcr
     @pytest.mark.asyncio
     async def test_create_project_success(self, client, test_dataset_url):
@@ -50,7 +39,7 @@ class TestOpenRefineClient:
 
     @pytest.mark.vcr
     @pytest.mark.asyncio
-    async def test_apply_operations_success(self, client, test_dataset_url):
+    async def test_apply_operations_success(self, client, sample_project):
         """Test successful operations application."""
         # Sample operations JSON
         operations = [
@@ -62,10 +51,7 @@ class TestOpenRefineClient:
             }
         ]
 
-        project_info = await client.create_project(
-            test_dataset_url, name="apply_operations_success"
-        )
-        summary = await client.apply_operations(project_info.project_id, operations)
+        summary = await client.apply_operations(sample_project.project_id, operations)
 
         assert isinstance(summary, ApplySummary)
         assert isinstance(summary.applied, bool)
@@ -73,7 +59,7 @@ class TestOpenRefineClient:
 
     @pytest.mark.vcr
     @pytest.mark.asyncio
-    async def test_apply_operations_with_string(self, client, test_dataset_url):
+    async def test_apply_operations_with_string(self, client, sample_project):
         """Test operations application with JSON string."""
         operations_json = json.dumps(
             [
@@ -86,11 +72,8 @@ class TestOpenRefineClient:
             ]
         )
 
-        project_info = await client.create_project(
-            test_dataset_url, name="apply_operations_success"
-        )
         summary = await client.apply_operations(
-            project_info.project_id, operations_json
+            sample_project.project_id, operations_json
         )
 
         assert isinstance(summary, ApplySummary)
@@ -108,12 +91,9 @@ class TestOpenRefineClient:
 
     @pytest.mark.vcr
     @pytest.mark.asyncio
-    async def test_export_csv_success(self, client, test_dataset_url):
+    async def test_export_csv_success(self, client, sample_project):
         """Test successful CSV export."""
-        project_info = await client.create_project(
-            test_dataset_url, name="export_csv_success"
-        )
-        csv_data = await client.export_csv(project_info.project_id)
+        csv_data = await client.export_csv(sample_project.project_id)
 
         assert isinstance(csv_data, bytes)
         assert len(csv_data) > 0
@@ -129,15 +109,10 @@ class TestOpenRefineClient:
 
     @pytest.mark.vcr
     @pytest.mark.asyncio
-    async def test_delete_project_success(self, client, test_dataset_url):
+    async def test_delete_project_success(self, client, sample_project):
         """Test successful project deletion."""
-        # First create a project to delete
-        project_info = await client.create_project(
-            test_dataset_url, name="delete_project_success"
-        )
-
         # Delete the project
-        deleted = await client.delete_project(project_info.project_id)
+        deleted = await client.delete_project(sample_project.project_id)
 
         assert deleted is True
 
@@ -166,3 +141,28 @@ class TestOpenRefineClient:
         # Test URL stripping
         client_with_slash = OpenRefineClient("http://localhost:3333/", timeout=30)
         assert client_with_slash.base_url == "http://localhost:3333"
+
+
+@pytest.fixture
+def client():
+    """Create a test OpenRefine client."""
+    return OpenRefineClient()
+
+
+@pytest.fixture
+def test_dataset_url():
+    """Sample dataset URL for testing."""
+    return "https://raw.githubusercontent.com/vitorbaptista/birmingham_schools/refs/heads/master/data/birmingham_schools.csv"
+
+
+@pytest_asyncio.fixture
+async def sample_project(client, test_dataset_url):
+    """Create a sample project for testing and clean it up afterward."""
+    project_info = await client.create_project(
+        test_dataset_url, name="Sample Test Project"
+    )
+    try:
+        yield project_info
+    finally:
+        # Clean up: delete the project after the test
+        await client.delete_project(project_info.project_id)

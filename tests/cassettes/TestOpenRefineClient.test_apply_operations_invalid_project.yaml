@@ -17,15 +17,15 @@ interactions:
   response:
     body:
       string: !!binary |
-        H4sIAAAAAAAAAKtWKsnPTs1TslJKN3N1MzYKzTEKNc4vTg7NS8ku8gssNLbwKDFOLcszL1GqBQBJ
-        0Xz+LAAAAA==
+        H4sIAAAAAAAAAKtWKsnPTs1TslIKqzBJDc5yyg1Nyc2Icix2SS5NDjE2SrQ0DU13NM5MDlGqBQDp
+        ujeQLAAAAA==
     headers:
       Content-Encoding:
       - gzip
       Content-Type:
       - application/json
       Date:
-      - Thu, 03 Jul 2025 21:20:25 GMT
+      - Thu, 03 Jul 2025 21:30:19 GMT
       Transfer-Encoding:
       - chunked
       Vary:
@@ -51,7 +51,7 @@ interactions:
       user-agent:
       - python-httpx/0.28.1
     method: POST
-    uri: http://localhost:3333/command/core/apply-operations?project=99999&csrf_token=g6EF32Ul2U3oscUndkrNQq38Ht3evn7t
+    uri: http://localhost:3333/command/core/apply-operations?project=99999&csrf_token=Vx4eSjBmUdmhZAsDcucT32a95UgA3icT
   response:
     body:
       string: '{"stack":"javax.servlet.ServletException: Failed to find project id
@@ -94,7 +94,7 @@ interactions:
       Content-Type:
       - application/json
       Date:
-      - Thu, 03 Jul 2025 21:20:25 GMT
+      - Thu, 03 Jul 2025 21:30:19 GMT
       Transfer-Encoding:
       - chunked
     status:

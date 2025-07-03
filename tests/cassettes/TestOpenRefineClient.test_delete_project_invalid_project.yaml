@@ -17,15 +17,15 @@ interactions:
   response:
     body:
       string: !!binary |
-        H4sIAAAAAAAAAKtWKsnPTs1TslIyMMk0igp3tAzI9jQOdjOxKKtyrkwuyUo1C3FNLjIyNVSqBQBl
-        BC5ALAAAAA==
+        H4sIAAAAAAAAAKtWKsnPTs1TslLKSqwM9MwzNcwuizD0CXXzD6vyL82OTEkLDPAoiKywtFSqBQCE
+        +avSLAAAAA==
     headers:
       Content-Encoding:
       - gzip
       Content-Type:
       - application/json
       Date:
-      - Thu, 03 Jul 2025 21:23:28 GMT
+      - Thu, 03 Jul 2025 21:30:21 GMT
       Transfer-Encoding:
       - chunked
       Vary:
@@ -49,7 +49,7 @@ interactions:
       user-agent:
       - python-httpx/0.28.1
     method: POST
-    uri: http://localhost:3333/command/core/delete-project?project=99999&csrf_token=04i2ZWA9PkI3SF48vzCyctje6TEcr251
+    uri: http://localhost:3333/command/core/delete-project?project=99999&csrf_token=jayQIn51kvX1LUFOVzOukYdfQPHpYx99
   response:
     body:
       string: '{ "code" : "ok" }'
@@ -57,7 +57,7 @@ interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Thu, 03 Jul 2025 21:23:28 GMT
+      - Thu, 03 Jul 2025 21:30:21 GMT
       Transfer-Encoding:
       - chunked
     status:

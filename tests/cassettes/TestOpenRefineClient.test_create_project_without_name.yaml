@@ -490,13 +490,13 @@ interactions:
       Cross-Origin-Resource-Policy:
       - cross-origin
       Date:
-      - Thu, 03 Jul 2025 21:20:24 GMT
+      - Thu, 03 Jul 2025 21:30:17 GMT
       ETag:
       - W/"593a55102168909d085f4659c7b9b0a50e55e778e197119664b72d6cf885420b"
       Expires:
-      - Thu, 03 Jul 2025 21:25:24 GMT
+      - Thu, 03 Jul 2025 21:35:17 GMT
       Source-Age:
-      - '250'
+      - '1'
       Strict-Transport-Security:
       - max-age=31536000
       Vary:
@@ -506,19 +506,19 @@ interactions:
       X-Cache:
       - HIT
       X-Cache-Hits:
-      - '2'
+      - '1'
       X-Content-Type-Options:
       - nosniff
       X-Fastly-Request-ID:
-      - 133f09224c5de63765c73c4ac80536c2f779c35a
+      - 1186c9e2ff8336267baa26a3a57822e3290eeb85
       X-Frame-Options:
       - deny
       X-GitHub-Request-Id:
       - 2944:218D:54140:96465:6866F19E
       X-Served-By:
-      - cache-for8426-FOR
+      - cache-for8424-FOR
       X-Timer:
-      - S1751577625.735625,VS0,VE0
+      - S1751578218.953738,VS0,VE1
       X-XSS-Protection:
       - 1; mode=block
     status:
@@ -542,15 +542,15 @@ interactions:
   response:
     body:
       string: !!binary |
-        H4sIAAAAAAAAAKtWKsnPTs1TslLKTPQq8Xc0dEwtLi/KS0k2ySgO8I/K9y7PKSqOqHKLDFeqBQBz
-        sL3VLAAAAA==
+        H4sIAAAAAAAAAKtWKsnPTs1TslLyMfbx9g8M8/UuMPGyDMgyjwwPKktKNUuKtMyOSDJLilCqBQBT
+        Dq6KLAAAAA==
     headers:
       Content-Encoding:
       - gzip
       Content-Type:
       - application/json
       Date:
-      - Thu, 03 Jul 2025 21:20:24 GMT
+      - Thu, 03 Jul 2025 21:30:18 GMT
       Transfer-Encoding:
       - chunked
       Vary:
@@ -559,7 +559,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: "--bfdd8958f18e0c475e194589333b353a\r\nContent-Disposition: form-data; name=\"project-file\";
+    body: "--d27ff8ed2922b248fd10e9f8b4770be0\r\nContent-Disposition: form-data; name=\"project-file\";
       filename=\"dataset.csv\"\r\nContent-Type: text/csv\r\n\r\nschool_name,street,postcode,easting,northing,web_site,school_group,maintain_status,lea_no,dcfs_no,geom\r\nAcocks
       Green Primary School,Westley Road,B27 7UQ,411976,283216,http://acocks.schooljotter2.com/,Primary,Academy
       Converter,330,2020,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.82522312891254,52.4467952243302]}\"\r\nAdderley
@@ -1455,7 +1455,7 @@ interactions:
       Tree Community Junior and Infant School (NC),Yew Tree Road,B6 6RX,408053,290299,http://www.yewtree.bham.sch.uk/,Primary,Community
       School,330,2180,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.88278825874003,52.5105330689896]}\"\r\nYorkmead
       Junior and Infant School,York Road,B28 8BB,410540,282541,http://www.yorkmead.co.uk/,Primary,Community
-      School,330,2231,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84637206363093,52.4407473048816]}\"\r\n\r\n--bfdd8958f18e0c475e194589333b353a--\r\n"
+      School,330,2231,\"{\"\"type\"\":\"\"Point\"\",\"\"coordinates\"\":[-1.84637206363093,52.4407473048816]}\"\r\n\r\n--d27ff8ed2922b248fd10e9f8b4770be0--\r\n"
     headers:
       accept:
       - '*/*'
@@ -1466,13 +1466,13 @@ interactions:
       content-length:
       - '95767'
       content-type:
-      - multipart/form-data; boundary=bfdd8958f18e0c475e194589333b353a
+      - multipart/form-data; boundary=d27ff8ed2922b248fd10e9f8b4770be0
       host:
       - localhost:3333
       user-agent:
       - python-httpx/0.28.1
     method: POST
-    uri: http://localhost:3333/command/core/create-project-from-upload?csrf_token=iaJtOA1Aeswrndc4hsPOZoKwlrsXzFYW
+    uri: http://localhost:3333/command/core/create-project-from-upload?csrf_token=L3LKOQVMKp4J9Pj7YWRvbe6bY9kXb6bX
   response:
     body:
       string: ''
@@ -1480,9 +1480,9 @@ interactions:
       Content-Length:
       - '0'
       Date:
-      - Thu, 03 Jul 2025 21:20:24 GMT
+      - Thu, 03 Jul 2025 21:30:18 GMT
       Location:
-      - http://localhost:3333/project?project=2317744370123
+      - http://localhost:3333/project?project=2611059016532
     status:
       code: 302
       message: Found

@@ -1,5 +1,5 @@
-"""Unit tests for OpenRefine client."""
-
+import csv
+import io
 import json
 import pytest
 import pytest_asyncio
@@ -94,11 +94,11 @@ class TestOpenRefineClient:
     async def test_export_csv_success(self, client, sample_project):
         """Test successful CSV export."""
         csv_data = await client.export_csv(sample_project.project_id)
+        csv_fp = io.StringIO(csv_data.decode("utf-8"))
+        data = list(csv.reader(csv_fp))
 
         assert isinstance(csv_data, bytes)
-        assert len(csv_data) > 0
-        # Check that it looks like CSV data
-        assert b"," in csv_data or b"\n" in csv_data
+        assert len(data) > 400
 
     @pytest.mark.vcr
     @pytest.mark.asyncio

@@ -1,4 +1,4 @@
-.PHONY = install test
+.PHONY = install test inspector
 
 install:
 	uv sync
@@ -7,6 +7,13 @@ install:
 test:
 	uv run pyright
 	uv run pytest
+
+inspector:
+	npx @modelcontextprotocol/inspector \
+		uv \
+		--directory openrefine_mcp \
+		run \
+		openrefine_server.py
 
 docs/dependencies/mcp-python-sdk.md:
 	wget https://raw.githubusercontent.com/modelcontextprotocol/python-sdk/refs/heads/main/README.md -O $@

@@ -1,4 +1,4 @@
-.PHONY = install test inspector
+.PHONY = install test inspector claude_desktop_config
 
 install:
 	uv sync
@@ -14,6 +14,24 @@ inspector:
 		--directory openrefine_mcp \
 		run \
 		openrefine_server.py
+
+claude_desktop_config:
+	@echo '{'
+	@echo '  "mcpServers": {'
+	@echo '    "openrefine": {'
+	@echo '      "command": "uv",'
+	@echo '      "args": ['
+	@echo '        "--directory",'
+	@echo '        "$(shell pwd)",'
+	@echo '        "run",'
+	@echo '        "openrefine_mcp/openrefine_server.py"'
+	@echo '      ],'
+	@echo '      "env": {'
+	@echo '        "OPENREFINE_URL": "http://localhost:3333"'
+	@echo '      }'
+	@echo '    }'
+	@echo '  }'
+	@echo '}'
 
 docs/dependencies/mcp-python-sdk.md:
 	wget https://raw.githubusercontent.com/modelcontextprotocol/python-sdk/refs/heads/main/README.md -O $@

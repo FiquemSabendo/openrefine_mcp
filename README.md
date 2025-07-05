@@ -1,5 +1,7 @@
 # OpenRefine MCP Server
 
+[![Test](https://github.com/FiquemSabendo/openrefine_mcp/actions/workflows/test.yml/badge.svg)](https://github.com/FiquemSabendo/openrefine_mcp/actions/workflows/test.yml)
+
 A Model Context Protocol (MCP) server that provides a typed, discoverable interface to OpenRefine's HTTP API. This allows any MCP-capable client (like Claude Desktop) to orchestrate data-cleaning pipelines safely and reproducibly.
 
 ## Installation

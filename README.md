@@ -44,7 +44,7 @@ uv sync
            "--directory",
            "path/to/your/openrefine_mcp",
            "run",
-           "openrefine_mcp/openrefine_server.py"
+           "openrefine-mcp-server"
          ],
          "env": {
            "OPENREFINE_URL": "http://localhost:3333"

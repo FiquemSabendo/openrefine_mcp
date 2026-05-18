@@ -101,7 +101,11 @@ async def get_project_models_resource(project_id: int) -> str:
     return result.model_dump_json()
 
 
-if __name__ == "__main__":
-    # Run the server
+def main() -> None:
+    """Entry point for the OpenRefine MCP server."""
     print("Starting OpenRefine MCP server...")
     app.run()
+
+
+if __name__ == "__main__":
+    main()

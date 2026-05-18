@@ -11,9 +11,8 @@ test:
 inspector:
 	npx @modelcontextprotocol/inspector \
 		uv \
-		--directory openrefine_mcp \
 		run \
-		openrefine_server.py
+		openrefine-mcp-server
 
 claude_desktop_config:
 	@echo '{'
@@ -24,7 +23,7 @@ claude_desktop_config:
 	@echo '        "--directory",'
 	@echo '        "$(shell pwd)",'
 	@echo '        "run",'
-	@echo '        "openrefine_mcp/openrefine_server.py"'
+	@echo '        "openrefine-mcp-server"'
 	@echo '      ],'
 	@echo '      "env": {'
 	@echo '        "OPENREFINE_URL": "http://localhost:3333"'

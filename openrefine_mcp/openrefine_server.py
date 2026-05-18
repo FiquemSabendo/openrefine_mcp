@@ -1,5 +1,7 @@
 """OpenRefine MCP Server implementation."""
 
+import sys
+
 import fastmcp
 from openrefine_mcp.openrefine_client import OpenRefineClient
 
@@ -103,7 +105,7 @@ async def get_project_models_resource(project_id: int) -> str:
 
 def main() -> None:
     """Entry point for the OpenRefine MCP server."""
-    print("Starting OpenRefine MCP server...")
+    print("Starting OpenRefine MCP server...", file=sys.stderr)
     app.run()
 
 
